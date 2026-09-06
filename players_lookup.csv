@@ -1,0 +1,1244 @@
+player_id,player_name,country,country_id,birth_date_utc,primary_position,club_id,club_name,height_cm,preferred_foot,transfer_value_eur
+1057426,Armin Gigovic,Bosnia and Herzegovina,10106,2002-04-06,defensive midfielder,10192,Young Boys,187,right,1950982
+1174844,Jovo Lukic,Bosnia and Herzegovina,10106,1998-11-28,striker,89022,Universitatea Cluj,190,left,959713
+1179875,Ivan Basic,Bosnia and Herzegovina,10106,2002-04-30,central midfielder,166865,FC Astana,178,left,724785
+1250485,Tarik Muharemovic,Bosnia and Herzegovina,10106,2003-02-28,center back,8463,Leeds United,187,left,17870981
+1284492,Samed Bazdar,Bosnia and Herzegovina,10106,2004-01-31,striker,8394,Real Zaragoza,186,right,1251348
+1300385,Amar Memic,Bosnia and Herzegovina,10106,2001-01-20,right wing-back,6033,Viktoria Plzen,176,right,2549448
+1346860,Esmir Bajraktarevic,Bosnia and Herzegovina,10106,2005-03-10,right winger,8640,PSV Eindhoven,175,left,5515112
+1415104,Benjamin Tahirovic,Bosnia and Herzegovina,10106,2003-03-03,central midfielder,8595,Brøndby IF,191,right,3975390
+1515122,Arjan Malic,Bosnia and Herzegovina,10106,2005-08-28,right back,10014,Sturm Graz,186,right,1671096
+1528815,Ermin Mahmic,Bosnia and Herzegovina,10106,2005-03-14,attacking midfielder,10245,Slovan Liberec,182,right,1390706
+15403,Edin Dzeko,Bosnia and Herzegovina,10106,1986-03-17,striker,,,193,both,990541
+1684401,Kerim Alajbegovic,Bosnia and Herzegovina,10106,2007-09-21,left winger,8178,Bayer Leverkusen,185,left,13792183
+1726288,Mladen Jurkas,Bosnia and Herzegovina,10106,2007-10-07,keeper,10116,Borac Banja Luka,193,right,
+304345,Sead Kolasinac,Bosnia and Herzegovina,10106,1993-06-20,center back,8524,Atalanta,183,left,2634142
+388903,Haris Tabakovic,Bosnia and Herzegovina,10106,1994-06-20,striker,10013,Salzburg,196,right,2192417
+466867,Nikola Vasilj,Bosnia and Herzegovina,10106,1995-12-02,keeper,8152,St. Pauli,194,right,2276621
+541551,Ivan Sunjic,Bosnia and Herzegovina,10106,1996-10-09,defensive midfielder,2137,Pafos FC,184,right,831449
+639558,Amir Hadziahmetovic,Bosnia and Herzegovina,10106,1997-03-08,defensive midfielder,10188,Beşiktaş,179,right,2030424
+653982,Stjepan Radeljic,Bosnia and Herzegovina,10106,1997-09-05,center back,10156,Dinamo Zagreb,201,left,1388098
+660148,Dzenis Burnic,Bosnia and Herzegovina,10106,1998-05-22,central midfielder,8295,Karlsruher SC,183,left,607801
+725655,Nikola Katic,Bosnia and Herzegovina,10106,1996-10-10,center back,10189,Schalke 04,194,right,985683
+797797,Dennis Hadzikadunic,Bosnia and Herzegovina,10106,1998-07-09,center back,8705,FC Rostov,186,right,816156
+840241,Ermedin Demirovic,Bosnia and Herzegovina,10106,1998-03-25,striker,10269,VfB Stuttgart,184,right,19671986
+857436,Nihad Mujakic,Bosnia and Herzegovina,10106,1998-04-15,center back,281467,Erzurumspor FK,189,left,1121576
+857661,Martin Zlomislic,Bosnia and Herzegovina,10106,1998-08-16,keeper,7981,Qarabag FK,190,right,1247096
+958010,Amar Dedic,Bosnia and Herzegovina,10106,2002-08-18,right back,9772,Benfica,180,right,16819758
+1070712,Josko Gvardiol,Croatia,10155,2002-01-23,center back,8456,Manchester City,185,left,68240274
+1077684,Ivor Pandur,Croatia,10155,2000-03-25,keeper,8548,Rangers,187,right,2390467
+1186228,Josip Sutalo,Croatia,10155,2000-02-28,center back,8593,Ajax,190,right,15114820
+1199714,Marco Pasalic,Croatia,10155,2000-09-14,right midfielder,267810,Orlando City,177,left,5582824
+1210893,Igor Matanovic,Croatia,10155,2003-03-31,striker,8358,Freiburg,194,right,11196113
+1215064,Martin Baturina,Croatia,10155,2003-02-16,left winger,10171,Como,172,right,21623619
+1300358,Toni Fruk,Croatia,10155,2001-03-09,attacking midfielder,10162,Rijeka,178,left,7580516
+1382000,Petar Sucic,Croatia,10155,2003-10-25,central midfielder,8636,Inter,183,right,31443413
+1413996,Luka Vuskovic,Croatia,10155,2007-02-24,center back,10204,Brighton & Hove Albion,193,right,35441761
+163670,Ivan Perisic,Croatia,10155,1989-02-02,left winger,8640,PSV Eindhoven,186,both,1024233
+173461,Andrej Kramaric,Croatia,10155,1991-06-19,attacking midfielder,8226,Hoffenheim,177,right,2497081
+239219,Mateo Kovacic,Croatia,10155,1994-05-06,defensive midfielder,8456,Manchester City,178,right,10823010
+251269,Ante Budimir,Croatia,10155,1991-07-22,striker,8371,Osasuna,190,left,2344793
+31097,Luka Modric,Croatia,10155,1985-09-09,central midfielder,8564,Milan,172,right,2192193
+383971,Dominik Livakovic,Croatia,10155,1995-01-09,keeper,8695,Fenerbahçe,188,right,3113075
+446266,Mario Pasalic,Croatia,10155,1995-02-09,defensive midfielder,8524,Atalanta,186,right,5067337
+557677,Nikola Vlasic,Croatia,10155,1997-10-04,attacking midfielder,9804,Torino,178,right,7732113
+557799,Duje Caleta-Car,Croatia,10155,1996-09-17,center back,9748,Lyon,186,right,2057659
+616170,Martin Erlic,Croatia,10155,1998-01-24,center back,8113,FC Midtjylland,192,right,1940830
+641595,Nikola Moro,Croatia,10155,1998-03-12,defensive midfielder,9857,Bologna,183,right,5085222
+643448,Kristijan Jakic,Croatia,10155,1997-05-14,defensive midfielder,8406,Augsburg,181,right,5036733
+709796,Petar Musa,Croatia,10155,1998-03-04,striker,6399,FC Dallas,190,right,6358766
+831474,Marin Pongracic,Croatia,10155,1997-09-11,center back,8535,Fiorentina,189,right,10262311
+873557,Dominik Kotarski,Croatia,10155,2000-02-10,keeper,8391,FC København,186,right,6727996
+950824,Josip Stanisic,Croatia,10155,2000-04-02,right back,9823,Bayern München,186,both,35784290
+959597,Luka Sucic,Croatia,10155,2002-09-08,attacking midfielder,8560,Real Sociedad,185,left,12302458
+1001335,Nabil Emad Dunga,Egypt,10255,1996-04-06,central midfielder,1523707,Al Najma,179,right,550618
+1022128,Hamdi Fathy,Egypt,10255,1994-09-29,center back,101901,Al-Wakrah,180,right,927834
+1179331,Mohamed Abdelmonem,Egypt,10255,1999-02-01,center back,9831,Nice,183,right,1880514
+1228546,Mostafa Ahmed Shobeir,Egypt,10255,2000-03-17,keeper,101745,Al Ahly SC,185,right,
+1272436,Ibrahim Adel,Egypt,10255,2001-04-23,left winger,10202,Nordsjælland,178,right,1962650
+1291391,Mahmoud Saber,Egypt,10255,2001-07-30,central midfielder,517894,Pyramids FC,170,right,869864
+1384425,Hossam Abdelmaguid,Egypt,10255,2001-04-30,center back,80591,Zamalek SC,193,right,1416047
+1418549,Marwan Ateya,Egypt,10255,1998-08-12,defensive midfielder,101745,Al Ahly SC,170,right,1900212
+1426403,Mostafa Ziko,Egypt,10255,1997-04-27,left winger,517894,Pyramids FC,179,right,
+1689101,Tarek Alaa,Egypt,10255,2002-01-05,right back,517894,Pyramids FC,178,right,403035
+1689371,Mohamed Alaa,Egypt,10255,1999-09-01,keeper,178268,El Gouna FC,188,right,249585
+1708842,Hamza Abdelkarim,Egypt,10255,2008-01-01,striker,161774,Barca Atletic,182,both,
+292462,Mohamed Salah,Egypt,10255,1992-06-15,right winger,,,175,left,35103349
+505872,Ramy Rabia,Egypt,10255,1993-05-20,center back,102117,Al-Ain,183,right,488977
+513492,Trezeguet,Egypt,10255,1994-10-01,left winger,101745,Al Ahly SC,181,right,1900324
+532766,Zizo,Egypt,10255,1996-01-10,right winger,101745,Al Ahly SC,180,right,2243623
+533403,Yasser Ibrahim,Egypt,10255,1993-02-10,center back,101745,Al Ahly SC,185,right,264408
+546550,Mohamed El Shenawy,Egypt,10255,1988-12-18,keeper,101745,Al Ahly SC,191,right,350095
+560416,Karim Hafez,Egypt,10255,1996-03-12,left back,517894,Pyramids FC,175,left,324191
+653688,Al Mahdi Soliman,Egypt,10255,1987-06-08,keeper,80591,Zamalek SC,189,right,263284
+660213,Mohamed Hany,Egypt,10255,1996-02-02,right back,101745,Al Ahly SC,180,right,958997
+839204,Omar Marmoush,Egypt,10255,1999-02-07,striker,8456,Manchester City,183,right,54951970
+849334,Ahmed Abou El Fotouh,Egypt,10255,1998-03-22,left back,80591,Zamalek SC,175,left,672214
+906944,Mohanad Lasheen,Egypt,10255,1996-05-29,defensive midfielder,517894,Pyramids FC,179,right,1594194
+971787,Haissem Hassan,Egypt,10255,2002-02-08,right winger,8670,Real Oviedo,173,left,3400496
+979376,Emam Ashour,Egypt,10255,1998-02-20,attacking midfielder,101745,Al Ahly SC,181,right,1935194
+1050160,Sontje Hansen,Curacao,287981,2002-05-18,right winger,8549,Middlesbrough,172,right,3521355
+1125997,Shurandy Sambo,Curacao,287981,2001-08-19,right back,8191,Burnley,174,right,1184484
+1180735,Arjany Martha,Curacao,287981,2003-09-04,right winger,8119,Rotherham United,180,left,616278
+1180784,Jearl Margaritha,Curacao,287981,2000-04-10,left winger,8475,SK Beveren,181,right,645274
+1210947,Jeremy Antonisse,Curacao,287981,2002-03-29,left winger,488099,Kifisia FC,180,right,652084
+1240833,Tyrick Bodak,Curacao,287981,2002-05-15,keeper,6414,Telstar,190,right,471386
+1243246,Livano Comenencia,Curacao,287981,2004-02-03,central midfielder,10243,FC Zürich,191,right,814218
+1335315,Deveron Fonville,Curacao,287981,2003-05-16,center back,8464,NEC Nijmegen,178,left,1069982
+1439121,Tyrese Noslin,Curacao,287981,2002-09-11,right wing-back,8283,Barnsley,182,right,974002
+150242,Eloy Room,Curacao,287981,1989-02-06,keeper,721896,Miami FC,189,right,66931
+183500,Leandro Bacuna,Curacao,287981,1991-08-21,central midfielder,1281818,Igdir FK,187,right,149924
+289441,Jürgen Locadia,Curacao,287981,1993-11-07,striker,721896,Miami FC,185,right,99318
+352358,Brandley Kuwas,Curacao,287981,1992-09-19,striker,6601,FC Volendam,178,left,428769
+380942,Gervane Kastaneer,Curacao,287981,1996-06-09,striker,165229,Terengganu,176,right,81869
+389845,Joshua Brenet,Curacao,287981,1994-03-20,right back,10182,Kayserispor,181,right,626642
+467479,Riechedly Bazoer,Curacao,287981,1996-10-12,center back,,,184,right,1152541
+614574,Juninho Bacuna,Curacao,287981,1997-08-07,defensive midfielder,4081,Gaziantep FK,178,right,1162292
+643232,Kenji Gorré,Curacao,287981,1994-09-29,left winger,10185,Maccabi Haifa,174,right,390897
+671327,Sherel Floranus,Curacao,287981,1998-08-23,left back,6413,PEC Zwolle,181,right,665131
+708738,Juriën Gaari,Curacao,287981,1993-12-23,center back,150414,Abha,183,right,205356
+751066,Tahith Chong,Curacao,287981,1999-12-04,right midfielder,8657,Sheffield United,185,left,2279433
+794244,Armando Obispo,Curacao,287981,1999-03-05,center back,8640,PSV Eindhoven,184,left,1895338
+873856,Trevor Doornbusch,Curacao,287981,1999-07-06,keeper,9839,VVV-Venlo,188,right,154603
+875845,Kevin Felida,Curacao,287981,1999-11-11,central midfielder,9835,FC Den Bosch,174,right,195116
+924844,Roshon van Eijma,Curacao,287981,1998-06-09,center back,10219,RKC Waalwijk,186,right,135173
+938524,Godfried Roemeratoe,Curacao,287981,1999-08-19,central midfielder,10219,RKC Waalwijk,180,right,160525
+1020026,Sebastián Cáceres,Uruguay,5796,1999-08-18,center back,6576,CF America,180,right,2493120
+1031656,Maxi Araújo,Uruguay,5796,2000-02-15,left back,9768,Sporting CP,180,left,22609122
+1032811,Federico Viñas,Uruguay,5796,1998-06-30,striker,1841,Leon,180,left,2430811
+1035614,Manuel Ugarte,Uruguay,5796,2001-04-11,defensive midfielder,10260,Manchester United,182,right,37761001
+1053963,Juan Sanabria,Uruguay,5796,2000-03-29,left back,6606,Real Salt Lake,172,left,2471238
+1070776,Rodrigo Zalazar,Uruguay,5796,1999-08-12,right winger,9768,Sporting CP,178,right,20435681
+1073402,Facundo Pellistri,Uruguay,5796,2001-12-20,right winger,10200,Panathinaikos,174,right,5768603
+1137909,Emiliano Martínez,Uruguay,5796,1999-08-17,defensive midfielder,10283,Palmeiras,185,right,7632724
+401095,Rodrigo Aguirre,Uruguay,5796,1994-10-01,striker,8561,Tigres,182,left,1662173
+438647,Giorgian de Arrascaeta,Uruguay,5796,1994-06-01,attacking midfielder,9770,Flamengo,173,right,12963842
+465614,Guillermo Varela,Uruguay,5796,1993-03-24,right back,9770,Flamengo,173,right,862229
+474589,José Giménez,Uruguay,5796,1995-01-20,center back,9906,Atletico Madrid,185,right,11398208
+553476,Sergio Rochet,Uruguay,5796,1993-03-23,keeper,8702,Internacional,189,right,1230105
+56829,Fernando Muslera,Uruguay,5796,1986-06-16,keeper,10094,Estudiantes,190,right,692539
+620618,Rodrigo Bentancur,Uruguay,5796,1997-06-25,defensive midfielder,8586,Tottenham Hotspur,187,right,18974677
+729093,Mathías Olivera,Uruguay,5796,1997-10-31,center back,9875,Napoli,185,left,15869654
+743533,Federico Valverde,Uruguay,5796,1998-07-22,right back,8633,Real Madrid,182,right,116367199
+751198,Nicolás de la Cruz,Uruguay,5796,1997-06-01,defensive midfielder,9770,Flamengo,167,right,9303741
+840184,Matías Viña,Uruguay,5796,1997-11-09,left back,10076,River Plate,180,left,2526588
+840212,Agustín Canobbio,Uruguay,5796,1998-10-01,right winger,9863,Fluminense,175,right,3939488
+848027,Santiago Mele,Uruguay,5796,1997-09-06,keeper,7849,Monterrey,184,right,1323246
+848034,Santiago Bueno,Uruguay,5796,1998-11-09,center back,8602,Wolverhampton Wanderers,189,right,12996933
+861661,Joaquín Piquerez,Uruguay,5796,1998-08-24,left back,10283,Palmeiras,184,left,13161262
+921253,Ronald Araujo,Uruguay,5796,1999-03-07,center back,8634,Barcelona,192,right,28100997
+941660,Brian Rodríguez,Uruguay,5796,2000-05-20,left winger,6576,CF America,174,right,7220714
+950561,Darwin Núñez,Uruguay,5796,1999-06-24,striker,2529,Al Hilal,187,right,23994477
+1023943,Jacob Shaffelburg,Canada,5810,1999-11-26,left winger,867280,Los Angeles FC,178,left,1611954
+1026105,Dayne St. Clair,Canada,5810,1997-05-09,keeper,960720,Inter Miami CF,191,left,1710536
+1026135,Tajon Buchanan,Canada,5810,1999-02-08,right midfielder,10205,Villarreal,183,right,11527839
+1055426,Alistair Johnston,Canada,5810,1998-10-08,right back,9925,Celtic,180,right,7043743
+1082106,Jayden Nelson,Canada,5810,2002-09-26,left winger,1218886,Austin FC,170,right,1426915
+1100258,Joel Waterman,Canada,5810,1996-01-24,center back,6397,Chicago Fire FC,188,right,1197678
+1216798,Nathan Saliba,Canada,5810,2004-02-07,defensive midfielder,8635,Anderlecht,173,right,5434016
+1252132,Promise David,Canada,5810,2001-07-03,striker,7978,Union St.Gilloise,196,right,15127899
+1288119,Ismaël Koné,Canada,5810,2002-06-16,central midfielder,7943,Sassuolo,188,right,18781599
+1338740,Tani Oluwaseyi,Canada,5810,2000-05-15,striker,10205,Villarreal,188,left,7451302
+1359536,Ali Ahmed,Canada,5810,2000-10-10,left winger,9850,Norwich City,180,right,2450364
+1399943,Luc De Fougerolles,Canada,5810,2005-10-12,center back,860801,Fulham U21,183,right,1369153
+1415372,Owen Goodman,Canada,5810,2003-11-27,keeper,1183385,Crystal Palace U18,193,left,666172
+1440009,Moïse Bombito,Canada,5810,2000-03-30,center back,9831,Nice,191,right,1385265
+1494508,Niko Sigur,Canada,5810,2003-09-09,right back,10154,Hajduk Split,180,right,2504943
+432605,Jonathan Osorio,Canada,5810,1992-06-12,defensive midfielder,56453,Toronto FC,175,both,507678
+464919,Maxime Crépeau,Canada,5810,1994-05-11,keeper,267810,Orlando City,185,right,1005643
+544312,Cyle Larin,Canada,5810,1995-04-17,striker,8466,Southampton,187,right,2034632
+729506,Richie Laryea,Canada,5810,1995-01-07,left back,56453,Toronto FC,175,right,484011
+751202,Alphonso Davies,Canada,5810,2000-11-02,left back,9823,Bayern München,183,left,40740500
+789598,Alfie Jones,Canada,5810,1997-10-07,center back,8549,Middlesbrough,191,right,4238390
+816223,Stephen Eustaquio,Canada,5810,1996-12-21,central midfielder,9773,FC Porto,178,right,4566598
+847629,Derek Cornelius,Canada,5810,1997-11-25,center back,8592,Marseille,187,left,2300363
+932308,Liam Millar,Canada,5810,1999-09-27,left winger,8667,Hull City,185,right,1657933
+939569,Jonathan David,Canada,5810,2000-01-14,striker,9885,Juventus,175,both,32860763
+943428,Mathieu Choinière,Canada,5810,1999-02-07,central midfielder,867280,Los Angeles FC,175,right,414779
+1028896,Ali Olwan,Jordan,5816,2000-03-26,striker,101905,Al-Sailiya,182,right,412812
+1033300,Mo Abualnadi,Jordan,5816,2001-02-08,center back,1515102,Corvinul Hunedoara,185,left,110239
+1036253,Noor Al Rawabdeh,Jordan,5816,1997-02-24,central midfielder,165223,Selangor,182,right,
+1059129,Mohammad Abuzraiq,Jordan,5816,1997-12-30,right winger,102049,Raja Casablanca,169,left,
+1179369,Saed Al-Rosan,Jordan,5816,1997-02-01,center back,101684,Ethad All Ramtha,186,right,
+1195369,Nizar Al Rashdan,Jordan,5816,1999-03-23,central midfielder,101900,Qatar SC,183,right,218352
+1202924,Ibrahim Saadeh,Jordan,5816,2000-04-27,central midfielder,101686,Al-Jazeera,182,right,200023
+1213678,Amer Jamous,Jordan,5816,2002-07-03,central midfielder,101659,Al Zawraa,177,right,
+1247001,Mohannad Abu Taha,Jordan,5816,2003-02-02,left wing-back,101656,Al Quwa Al Jawiya,173,left,193226
+1312681,Abdallah Nasib,Jordan,5816,1994-02-25,center back,101688,Al-Hussein SC,185,right,
+1350517,Mohammad Abu Hasheesh,Jordan,5816,1995-05-09,left midfielder,191814,Zakho,177,left,111363
+1554109,Husam Abu Dahab,Jordan,5816,2000-05-13,center back,101665,Al-Faisaly,186,left,
+1554110,Nour Bani Attiah,Jordan,5816,1993-01-25,keeper,101665,Al-Faisaly,179,right,
+1642793,Ali Al-Azaizeh,Jordan,5816,2004-04-13,right midfielder,101718,Kazma,178,left,307980
+1823348,Odeh Fakhouri,Jordan,5816,2005-11-20,left midfielder,517894,Pyramids FC,180,right,
+1902793,Mohammad Abu Ghoush,Jordan,5816,2005-07-13,defender,0,Shabab Al Ordon Al Quadisiya,183,left,
+546201,Ehsan Haddad,Jordan,5816,1994-02-05,right wing-back,101688,Al-Hussein SC,185,right,
+546203,Rajaei Ayed,Jordan,5816,1993-07-25,central midfielder,101688,Al-Hussein SC,179,right,
+600844,Mohammad Al-Daoud,Jordan,5816,1992-04-12,midfielder,134185,Al-Salt,177,right,
+674520,Mahmoud Al Mardi,Jordan,5816,1993-10-06,left winger,101688,Al-Hussein SC,179,right,
+734654,Yazeed Abulaila,Jordan,5816,1993-01-08,keeper,101688,Al-Hussein SC,188,right,
+813055,Mousa Tamari,Jordan,5816,1997-06-10,left midfielder,9851,Rennes,178,left,4653544
+847766,Saleem Obaid,Jordan,5816,1992-01-17,center back,101688,Al-Hussein SC,187,left,
+852168,Yazan Al Arab,Jordan,5816,1996-01-31,center back,92630,FC Seoul,185,left,654245
+915790,Abdullah Al Fakhouri,Jordan,5816,2000-01-22,keeper,101690,Al-Wehdat,188,right,
+1042511,Aimar Sher,Iraq,5819,2002-12-20,defensive midfielder,8509,Sarpsborg 08,175,right,1046801
+1092563,Hussein Ali,Iraq,5819,2002-03-01,right back,8023,Pogoń Szczecin,180,right,307485
+1113688,Ali Al Hamadi,Iraq,5819,2002-03-01,striker,9902,Ipswich Town,187,right,1357832
+1132570,Ahmed Basil Fadhil,Iraq,5819,1996-08-19,keeper,101655,Al Shorta,186,both,
+1132572,Ali Yousif,Iraq,5819,1996-01-19,forward,101660,Al Talaba,180,right,
+1138592,Zidane Iqbal,Iraq,5819,2003-04-27,defensive midfielder,278960,Jong FC Utrecht,181,right,1264124
+1162514,Marko Lawk Farji,Iraq,5819,2004-03-16,left winger,7881,Venezia,184,right,1294373
+1199113,Merchas Doski,Iraq,5819,1999-12-07,left back,6033,Viktoria Plzen,173,left,1006854
+1224691,Ahmed Qasem,Iraq,5819,2003-07-12,left midfielder,915807,Nashville SC,183,left,2787348
+1235623,Youssef Amyn,Iraq,5819,2003-08-21,right midfielder,7797,AEK Larnaca,175,right,324616
+1333336,Manaf Younis,Iraq,5819,1996-11-16,center back,101655,Al Shorta,190,right,
+1420369,Zaid Tahseen,Iraq,5819,2001-01-29,center back,101656,Al Quwa Al Jawiya,193,right,186354
+1478238,Ali Jasim,Iraq,5819,2004-01-20,left winger,10171,Como,178,right,445355
+1554123,Mustafa Saadoun,Iraq,5819,2001-05-25,right back,101655,Al Shorta,182,right,
+1606279,Akam Hashem,Iraq,5819,1998-08-16,center back,101659,Al Zawraa,184,left,
+1642810,Ahmed Maknzi,Iraq,5819,2001-09-24,left back,1680577,Al-Karma,183,left,
+1642820,Zaid Ismael,Iraq,5819,2002-01-03,central midfielder,101660,Al Talaba,185,right,
+320139,Frans Putros,Iraq,5819,1993-07-14,central midfielder,165196,Persib Bandung,181,right,59148
+502481,Rebin Sulaka,Iraq,5819,1992-04-12,center back,165255,Port FC,192,right,71318
+533495,Fahad Talib,Iraq,5819,1994-10-21,keeper,101660,Al Talaba,193,right,
+578761,Jalal Hassan,Iraq,5819,1991-05-18,keeper,101659,Al Zawraa,185,right,
+674332,Ayman Hussein,Iraq,5819,1996-03-22,striker,1680577,Al-Karma,189,right,192052
+858340,Amir Al-Ammari,Iraq,5819,1997-07-27,central midfielder,2186,Cracovia,180,left,625761
+926484,Mohanad Ali,Iraq,5819,2000-06-20,striker,391664,Dibba Al Fujairah,183,right,1040176
+941579,Kevin Yakob,Iraq,5819,2000-10-10,central midfielder,8071,AGF,184,right,481491
+942834,Ibrahim Bayesh,Iraq,5819,2000-05-01,right midfielder,102118,Al-Dhafra,183,right,
+1013276,Callan Elliot,New Zealand,5820,1999-07-07,right back,1642068,Auckland FC,177,right,227223
+1034995,Ben Waine,New Zealand,5820,2001-06-11,striker,9799,Port Vale,179,right,463227
+1053731,Nando Pijnaker,New Zealand,5820,1999-02-25,center back,1642068,Auckland FC,191,left,197573
+1053736,Elijah Just,New Zealand,5820,2000-05-01,attacking midfielder,9927,Motherwell,174,left,970248
+115025,Tommy Smith,New Zealand,5820,1990-03-31,center back,5763,Braintree Town,185,left,50000
+1209597,Marko Stamenic,New Zealand,5820,2002-02-19,defensive midfielder,10003,Swansea City,188,right,2939396
+1257745,Benjamin Old,New Zealand,5820,2002-08-13,left back,9853,Saint-Etienne,173,left,874403
+1272118,Alex Paulsen,New Zealand,5820,2002-07-04,keeper,9927,Motherwell,183,right,1004887
+128949,Michael Boxall,New Zealand,5820,1988-08-18,center back,207242,Minnesota United,188,right,104588
+1325761,Finn Surman,New Zealand,5820,2003-09-23,center back,307690,Portland Timbers,190,right,1360702
+1460327,Jesse Randall,New Zealand,5820,2002-08-19,left midfielder,1642068,Auckland FC,176,right,520609
+1565865,Lachlan Bayliss,New Zealand,5820,2002-07-24,attacking midfielder,1642068,Auckland FC,178,right,316287
+169719,Chris Wood,New Zealand,5820,1991-12-07,striker,10203,Nottingham Forest,191,right,5447184
+315201,Max Crocombe,New Zealand,5820,1993-08-12,keeper,10004,Millwall,194,right,652638
+324305,Tim Payne,New Zealand,5820,1994-01-10,right back,6619,Olimpia,179,right,163817
+496356,Ryan Thomas,New Zealand,5820,1994-12-20,defensive midfielder,6413,PEC Zwolle,174,right,510759
+519240,Alex Rufer,New Zealand,5820,1996-06-12,central midfielder,78785,Wellington Phoenix,184,right,219025
+676431,Logan Rogerson,New Zealand,5820,1998-05-28,right midfielder,1642068,Auckland FC,182,right,211639
+724531,Sarpreet Singh,New Zealand,5820,1999-02-20,attacking midfielder,676140,TSC Backa Topola,180,left,179554
+825593,Francis de Vries,New Zealand,5820,1994-11-28,left back,1642068,Auckland FC,188,left,229464
+848317,Michael Woud,New Zealand,5820,1999-01-16,keeper,1642068,Auckland FC,196,left,233750
+848345,Joe Bell,New Zealand,5820,1999-04-27,defensive midfielder,8478,Viking,182,right,1631846
+848352,Callum McCowatt,New Zealand,5820,1999-04-30,attacking midfielder,8415,Silkeborg,179,right,1473464
+919671,Liberato Cacace,New Zealand,5820,2000-09-27,left wing-back,9841,Wrexham,184,left,1993062
+96488,Kosta Barbarouses,New Zealand,5820,1990-02-19,striker,323834,Western Sydney Wanderers FC,171,both,176121
+1054027,Carlos Dos Santos,Cape Verde,5888,2000-08-24,keeper,1701119,San Diego FC,194,right,652094
+1165477,Telmo Arcanjo,Cape Verde,5888,2001-06-21,right winger,7844,Vitoria de Guimaraes,180,left,1896676
+1175733,Kelvin Pires,Cape Verde,5888,2000-06-05,center back,162162,SJK,193,right,166193
+1205410,Yannick Semedo,Cape Verde,5888,1995-12-29,central midfielder,6004,Farense,171,right,
+1241301,João Paulo,Cape Verde,5888,1998-05-26,left back,9723,FCSB,180,left,400485
+1241302,Gilson Benchimol,Cape Verde,5888,2001-12-29,striker,1068364,Akron Togliatti,177,right,814117
+1309634,Dailon Livramento,Cape Verde,5888,2001-05-04,striker,9876,Hellas Verona,185,right,798402
+1441786,Sidny Lopes Cabral,Cape Verde,5888,2002-09-18,left back,9752,Trabzonspor,170,both,1614076
+1460591,Wagner Pina,Cape Verde,5888,2002-11-03,right back,9752,Trabzonspor,180,right,9371528
+1524518,Hélio Varela,Cape Verde,5888,2002-05-03,left winger,7855,Maccabi Tel Aviv,176,right,1053773
+164062,Stopira,Cape Verde,5888,1988-05-20,center back,212820,Torreense,180,left,216742
+172615,Ryan Mendes,Cape Verde,5888,1990-01-08,right winger,1281818,Igdir FK,178,right,142222
+230134,Roberto Lopes,Cape Verde,5888,1992-06-17,center back,4131,Shamrock Rovers,174,right,50000
+302912,Garry Rodrigues,Cape Verde,5888,1990-11-27,right winger,8003,Apollon Limassol,173,right,208696
+422149,Vozinha,Cape Verde,5888,1986-06-03,keeper,9774,Chaves,188,right,179753
+444000,Steven Moreira,Cape Verde,5888,1994-08-13,center back,6001,Columbus Crew,178,right,722005
+496648,Diney Borges,Cape Verde,5888,1995-01-17,center back,102124,Sharjah Cultural Club,185,right,691510
+665167,Laros Duarte,Cape Verde,5888,1997-02-28,defensive midfielder,355346,Puskas FC Academy,180,right,654439
+671326,Nuno da Costa,Cape Verde,5888,1991-02-10,striker,1933,Başakşehir,184,right,415170
+680905,Jamiro Monteiro,Cape Verde,5888,1993-11-23,central midfielder,8464,NEC Nijmegen,175,right,418882
+785716,Jovane Cabral,Cape Verde,5888,1998-06-14,left winger,9769,Gremio,174,right,484392
+798069,Deroy Duarte,Cape Verde,5888,1999-07-04,defensive midfielder,210173,Ludogorets Razgrad,184,right,911965
+865144,Márcio Rosa,Cape Verde,5888,1997-02-23,keeper,46475,Montana,186,right,100181
+873832,Willy Semedo,Cape Verde,5888,1994-04-27,left winger,8044,Omonia Nicosia,185,right,578270
+890503,Kevin Pina,Cape Verde,5888,1997-01-27,defensive midfielder,168719,FC Krasnodar,190,both,2177020
+922877,Logan Costa,Cape Verde,5888,2001-04-01,defender,10205,Villarreal,188,right,19435661
+1053982,Salah Zakaria,Qatar,5902,1999-04-24,keeper,203826,Al-Duhail SC,189,right,254525
+1053987,Yusuf Abdurisag,Qatar,5902,1999-08-06,right winger,101895,Al-Sadd,175,right,296713
+117539,Hassan Al Haydos,Qatar,5902,1990-12-11,right winger,101895,Al-Sadd,174,right,206771
+1195865,Jassem Gaber,Qatar,5902,2002-02-20,defensive midfielder,101898,Al-Rayyan,181,right,432496
+1210913,Ahmed Al Ganehi,Qatar,5902,2000-09-22,right winger,101898,Al-Rayyan,178,right,354876
+1213141,Mahmoud Abunada,Qatar,5902,2000-02-05,keeper,101898,Al-Rayyan,191,left,323175
+1432180,Ayoub Al Oui,Qatar,5902,2005-03-11,right back,101897,Al-Gharafa,181,right,
+149583,Lucas Mendes,Qatar,5902,1990-07-03,center back,101901,Al-Wakrah,184,left,251242
+1553870,Mohammad Al Manai,Qatar,5902,2002-10-25,attacking midfielder,101904,Al-Shamal,180,right,515927
+1642780,Al Hashmi Al Hussain,Qatar,5902,2003-08-15,center back,101899,Al-Arabi,184,right,319029
+1648351,Tahsin Mohammed,Qatar,5902,2006-06-16,right winger,203826,Al-Duhail SC,166,right,
+1839745,Issa Laye,Qatar,5902,1997-12-22,center back,101899,Al-Arabi,188,right,262639
+264096,Ahmed Alaa,Qatar,5902,1993-01-31,striker,101898,Al-Rayyan,177,right,291553
+308909,Abdulaziz Hatem,Qatar,5902,1990-10-28,attacking midfielder,101898,Al-Rayyan,183,left,175234
+308921,Boualem Khoukhi,Qatar,5902,1990-07-09,center back,101895,Al-Sadd,180,right,307816
+309153,Karim Boudiaf,Qatar,5902,1990-09-16,defensive midfielder,203826,Al-Duhail SC,190,right,175033
+365245,Edmílson Junior,Qatar,5902,1994-08-19,right winger,203826,Al-Duhail SC,181,right,1018845
+431151,Mohammed Muntari,Qatar,5902,1993-12-20,striker,101897,Al-Gharafa,194,right,199236
+613792,Akram Afif,Qatar,5902,1996-11-18,left winger,101895,Al-Sadd,177,right,4110349
+615414,Assim Madibo,Qatar,5902,1996-10-22,defensive midfielder,203826,Al-Duhail SC,168,right,190418
+644014,Sultan Al Brake,Qatar,5902,1996-04-07,left back,203826,Al-Duhail SC,175,left,245853
+644017,Almoez Ali,Qatar,5902,1996-08-19,striker,203826,Al-Duhail SC,180,right,1298327
+734637,Pedro Miguel,Qatar,5902,1990-08-06,center back,101895,Al-Sadd,182,right,
+898424,Ahmed Fathy,Qatar,5902,1993-01-25,defensive midfielder,101899,Al-Arabi,171,right,195126
+922387,Meshaal Barsham,Qatar,5902,1998-02-14,keeper,101895,Al-Sadd,180,right,650907
+937414,Homam El Amin,Qatar,5902,1999-08-25,left back,203826,Al-Duhail SC,188,left,297213
+1017520,Carlos Harvey,Panama,5922,2000-02-03,center back,207242,Minnesota United,185,right,305483
+1054138,Tomás Rodríguez,Panama,5922,1999-03-09,striker,6453,Barcelona SC,183,right,579891
+1137803,César Yanis,Panama,5922,1996-01-28,central midfielder,4055,Cobresal,160,left,226895
+1223132,José Córdoba,Panama,5922,2001-06-03,center back,9850,Norwich City,187,left,3287770
+1330683,César Samudio,Panama,5922,1994-02-23,keeper,9932,CD Marathon,189,left,
+1404414,Azarías Londoño,Panama,5922,2001-06-21,right winger,113053,Universidad Catolica,185,right,761389
+1454648,Edgardo Fariña,Panama,5922,2001-10-19,center back,657508,Nizhny Novgorod,194,right,1099045
+183088,Alberto Quintero,Panama,5922,1987-12-18,midfielder,165476,CD Plaza Amador,165,right,181057
+206088,Luis Mejía,Panama,5922,1991-03-16,keeper,8304,Nacional,193,left,252929
+308131,Aníbal Godoy,Panama,5922,1990-02-10,central midfielder,1701119,San Diego FC,183,left,69173
+312159,Cecilio Waterman,Panama,5922,1991-04-13,striker,4054,Universidad de Concepcion,181,right,252396
+501847,Roderick Miller,Panama,5922,1992-04-03,center back,4674,Turan Tovuz,189,left,153592
+503710,Éric Davis,Panama,5922,1991-03-31,left wing-back,165476,CD Plaza Amador,180,left,134087
+526710,Yoel Bárcenas,Panama,5922,1993-10-23,central midfielder,1170234,Mazatlan FC,175,right,417821
+531913,Orlando Mosquera,Panama,5922,1994-12-25,keeper,582749,Al-Fayha,191,right,297942
+574077,Ismael Díaz,Panama,5922,1997-05-12,left winger,1841,Leon,182,right,1248533
+643635,Amir Murillo,Panama,5922,1996-02-11,right back,10188,Beşiktaş,183,right,7111372
+643638,Fidel Escobar,Panama,5922,1995-01-09,center back,6607,Deportivo Saprissa,181,right,50000
+643682,Adalberto Carrasquilla,Panama,5922,1998-11-28,central midfielder,1946,Pumas,170,right,2208317
+688448,Jiovany Ramos,Panama,5922,1997-01-26,center back,657277,Academia Puerto Cabello,189,right,145710
+688449,Andrés Andrade,Panama,5922,1998-10-16,center back,9977,LASK,187,left,1200417
+727101,Cristian Martínez,Panama,5922,1997-02-06,defensive midfielder,6019,Slovan Bratislava,170,right,518871
+888966,César Blackman,Panama,5922,1998-04-02,right back,6019,Slovan Bratislava,174,right,1309247
+924235,Jorge Gutiérrez,Panama,5922,1998-09-01,left back,176496,Deportivo La Guaira,171,left,343158
+940333,José Luis Rodríguez,Panama,5922,1998-06-19,left winger,649424,FC Juarez,180,left,1688534
+940334,José Fajardo,Panama,5922,1993-08-18,striker,113053,Universidad Catolica,181,right,325770
+103468,Johny Placide,Haiti,5934,1988-01-29,keeper,7794,SC Bastia,181,right,208945
+1079194,Don Deedson Louicius,Haiti,5934,2001-02-11,left wing-back,6399,FC Dallas,178,left,
+1107287,Carl Sainté,Haiti,5934,2002-08-09,center back,1003209,El Paso Locomotive FC,182,right,69402
+1181438,Martin Expérience,Haiti,5934,1999-03-09,left wing-back,,,178,left,217557
+1199382,Josué Casimir,Haiti,5934,2001-09-24,right midfielder,8583,Auxerre,178,right,3526640
+1200016,Ruben Providence,Haiti,5934,2001-07-07,left winger,4116,Almere City FC,178,right,221974
+1209244,Alexandre Pierre,Haiti,5934,2001-02-25,keeper,9874,Sochaux,190,right,271235
+1242314,Lenny Joseph,Haiti,5934,2000-10-12,striker,8222,Ferencvaros,183,right,1350126
+1286428,Garven Metusala,Haiti,5934,1999-12-31,center back,614321,Colorado Springs Switchbacks FC,186,both,61751
+1329461,Danley Jean Jacques,Haiti,5934,2000-05-20,central midfielder,191716,Philadelphia Union,180,right,1913572
+1356595,Dominique Simon,Haiti,5934,2000-07-29,central midfielder,2406,Pardubice,179,right,172115
+1394254,Wilguens Paugain,Haiti,5934,2001-08-24,right wing-back,10000,Zulte Waregem,180,right,565288
+1447452,Olivier Pierre,Haiti,5934,2004-12-30,midfielder,911047,Real Hope FA,175,right,
+1807873,Keeto Thermoncy,Haiti,5934,2006-03-29,defender,4641,Young Boys II,179,right,298631
+525445,Duckens Nazon,Haiti,5934,1994-04-07,striker,101614,Esteghlal,181,right,468548
+532700,Ricardo Adé,Haiti,5934,1990-05-21,center back,6721,LDU de Quito,190,right,274554
+634110,Carlens Arcus,Haiti,5934,1996-06-28,right back,8121,Angers,180,right,1039378
+643482,Derrick Etienne,Haiti,5934,1996-11-25,striker,56453,Toronto FC,178,right,253844
+649744,Duke Lacroix,Haiti,5934,1993-10-14,left back,614321,Colorado Springs Switchbacks FC,175,left,50000
+759569,Yassin Fortuné,Haiti,5934,1999-01-30,striker,4531,Vizela,185,right,240664
+769166,Jean-Ricner Bellegarde,Haiti,5934,1998-06-27,central midfielder,8602,Wolverhampton Wanderers,170,right,15860619
+769168,Jean-Kévin Duverne,Haiti,5934,1997-07-12,center back,9830,Nantes,184,right,1176519
+822716,Hannes Delcroix,Haiti,5934,1999-02-28,center back,7896,Lugano,185,left,1077002
+833641,Frantzdy Pierrot,Haiti,5934,1995-03-29,striker,8563,AEK Athens,194,right,1422568
+887703,Wilson Isidor,Haiti,5934,2000-08-27,striker,8472,Sunderland,180,right,19480036
+899023,Josué Duverger,Haiti,5934,2000-04-27,keeper,0,FC Cosmos Koblenz,187,left,
+1050838,Anass Salah-Eddine,Morocco,6262,2002-01-18,left back,8686,Roma,179,left,10187905
+1073143,Azzedine Ounahi,Morocco,6262,2000-04-19,attacking midfielder,7732,Girona,182,right,9967754
+1180288,Ismael Saibari,Morocco,6262,2001-01-28,attacking midfielder,9823,Bayern München,185,right,49583828
+1187506,Chadi Riad,Morocco,6262,2003-06-17,center back,9826,Crystal Palace,187,left,15125184
+1242587,Amine Sbaï,Morocco,6262,2000-11-05,left winger,8121,Angers,175,right,1813885
+1274060,Neil El Aynaoui,Morocco,6262,2001-07-02,defensive midfielder,8686,Roma,182,right,20071939
+1287871,Zakaria El Ouahdi,Morocco,6262,2001-12-31,right back,9987,Genk,175,right,16159080
+1298186,Redouane Halhal,Morocco,6262,2003-03-05,center back,8203,KV Mechelen,185,right,2225273
+1340895,Bilal El Khannouss,Morocco,6262,2004-05-10,attacking midfielder,10269,VfB Stuttgart,180,right,36014850
+1368654,Chemsdine Talbi,Morocco,6262,2005-05-09,right winger,8472,Sunderland,175,right,26961307
+1561552,Ayyoub Bouaddi,Morocco,6262,2007-10-02,defensive midfielder,8639,Lille,185,right,48382644
+1598170,Samir El Mourabet,Morocco,6262,2005-10-06,defensive midfielder,9848,Strasbourg,187,left,4596544
+1603755,Gessime Yassine,Morocco,6262,2005-11-22,right winger,9848,Strasbourg,172,left,8432368
+1680173,Ayoube Amaimouni-Echghouyab,Morocco,6262,2004-11-30,right winger,9810,Eintracht Frankfurt,179,left,1269678
+340020,Yassine Bounou,Morocco,6262,1991-04-05,keeper,2529,Al Hilal,195,left,1905419
+573787,Munir,Morocco,6262,1989-05-10,keeper,316652,RSB Berkane,190,right,388965
+593116,Sofyan Amrabat,Morocco,6262,1996-08-21,defensive midfielder,8695,Fenerbahçe,185,right,11405439
+614912,Marwane Saadane,Morocco,6262,1992-01-17,center back,177356,Al Fateh FC,185,right,196011
+696443,Issa Diop,Morocco,6262,1997-01-09,center back,9879,Fulham,194,right,9993650
+750027,Brahim Díaz,Morocco,6262,1999-08-03,right winger,8633,Real Madrid,170,left,31471470
+770881,Achraf Hakimi,Morocco,6262,1998-11-04,right back,9847,Paris Saint-Germain,181,right,73036848
+775539,Noussair Mazraoui,Morocco,6262,1997-11-14,left back,10260,Manchester United,183,right,21173600
+884382,Ayoub El Kaabi,Morocco,6262,1993-06-25,striker,8638,Olympiacos,182,left,2323757
+885288,Ahmed Tagnaouti,Morocco,6262,1996-04-05,keeper,102035,FAR Rabat,186,right,478587
+909908,Youssef Belammari,Morocco,6262,1998-09-20,left back,101745,Al Ahly SC,183,left,1208587
+988749,Soufiane Rahimi,Morocco,6262,1996-06-02,striker,102117,Al-Ain,180,right,3615073
+1054166,Oswin Appollis,South Africa,6316,2001-08-25,left winger,7866,Orlando Pirates,171,right,820378
+1076668,Iqraam Rayners,South Africa,6316,1995-12-19,striker,4530,Mamelodi Sundowns FC,176,right,1728893
+1107735,Sphephelo Sithole,South Africa,6316,1999-03-03,defensive midfielder,188163,Tondela,186,right,435110
+1124424,Thalente Mbatha,South Africa,6316,2000-03-06,defensive midfielder,7866,Orlando Pirates,180,right,864734
+1137059,Evidence Makgopa,South Africa,6316,2000-06-05,striker,7866,Orlando Pirates,188,right,648428
+1178629,Jayden Adams,South Africa,6316,2001-05-05,defensive midfielder,,,175,right,316800
+1202481,Bradley Cross,South Africa,6316,2001-01-30,left back,6279,Kaizer Chiefs,175,left,347389
+1289611,Tshepang Moremi,South Africa,6316,2000-10-02,left winger,7866,Orlando Pirates,168,left,614653
+1394951,Thapelo Maseko,South Africa,6316,2003-11-11,right winger,4530,Mamelodi Sundowns FC,178,left,539836
+1451566,Kamogelo Sebelebele,South Africa,6316,2002-07-21,right back,7866,Orlando Pirates,166,right,537448
+1469826,Olwethu Makhanya,South Africa,6316,2004-04-30,center back,191716,Philadelphia Union,185,right,1930929
+1471333,Relebohile Mofokeng,South Africa,6316,2004-10-23,attacking midfielder,7978,Union St.Gilloise,161,right,1744922
+1579341,Thabang Matuludi,South Africa,6316,1999-01-14,right back,149600,Polokwane City,189,right,419681
+1600334,Ime Okon,South Africa,6316,2004-02-20,center back,9904,Hannover 96,187,right,1770254
+1680659,Samukelo Kabini,South Africa,6316,2004-03-15,left back,9917,Molde,188,left,1911749
+1680696,Khulumani Ndamane,South Africa,6316,2004-02-05,center back,4530,Mamelodi Sundowns FC,183,right,396326
+1719066,Mbekezeli Mbokazi,South Africa,6316,2005-09-19,center back,6397,Chicago Fire FC,177,left,845953
+253991,Ronwen Williams,South Africa,6316,1992-01-21,keeper,4530,Mamelodi Sundowns FC,184,right,485782
+303609,Themba Zwane,South Africa,6316,1989-08-03,attacking midfielder,4530,Mamelodi Sundowns FC,170,right,60000
+428006,Ricardo Goss,South Africa,6316,1994-04-02,keeper,4530,Mamelodi Sundowns FC,181,right,110797
+616179,Aubrey Modiba,South Africa,6316,1995-07-22,left back,4530,Mamelodi Sundowns FC,167,left,829163
+716819,Nkosinathi Sibisi,South Africa,6316,1995-09-22,center back,7866,Orlando Pirates,177,right,765783
+787099,Sipho Chaine,South Africa,6316,1996-12-14,keeper,7866,Orlando Pirates,186,right,755548
+848361,Teboho Mokoena,South Africa,6316,1997-01-24,defensive midfielder,4530,Mamelodi Sundowns FC,176,right,1261702
+881500,Lyle Foster,South Africa,6316,2000-09-03,striker,8191,Burnley,185,right,12005752
+940010,Khuliso Mudau,South Africa,6316,1995-04-26,right back,4530,Mamelodi Sundowns FC,181,right,513583
+1033099,Hicham Boudaoui,Algeria,6317,1999-09-23,central midfielder,9831,Nice,173,right,10828692
+1039219,Samir Chergui,Algeria,6317,1999-02-06,right back,6379,Paris FC,180,right,1600467
+1074967,Ramiz Zerrouki,Algeria,6317,1998-05-26,defensive midfielder,10235,Feyenoord,183,right,5753000
+1116034,Oussama Benbot,Algeria,6317,1994-10-11,keeper,101628,USM Alger,188,right,
+1118823,Zineddine Belaïd,Algeria,6317,1999-03-20,center back,101630,JS Kabylie,187,right,420053
+1131925,Mohamed Tougai,Algeria,6317,2000-01-22,center back,8153,Espérance,191,right,886404
+1134206,Mohamed Amoura,Algeria,6317,2000-05-09,striker,8721,Wolfsburg,168,right,26375846
+1178324,Jaouen Hadjam,Algeria,6317,2003-03-26,left back,10192,Young Boys,184,left,8388063
+1210929,Nadir Benbouali,Algeria,6317,2000-04-17,striker,5755,Györi ETO,187,left,868827
+1231029,Rafik Belghali,Algeria,6317,2002-06-07,right midfielder,9876,Hellas Verona,178,right,6045882
+1285492,Melvin Mastil,Algeria,6317,2000-02-19,keeper,2442,Stade Nyonnais,196,right,231545
+1288907,Yacine Titraoui,Algeria,6317,2003-07-26,defensive midfielder,9986,Sporting Charleroi,170,right,6991052
+1298669,Adil Boulbina,Algeria,6317,2003-05-02,left winger,203826,Al-Duhail SC,183,right,2111022
+1345875,Farès Chaïbi,Algeria,6317,2002-11-28,defensive midfielder,9810,Eintracht Frankfurt,183,right,17686675
+1362385,Achref Abada,Algeria,6317,1999-06-15,center back,101628,USM Alger,185,right,
+1457626,Ibrahim Maza,Algeria,6317,2005-11-24,attacking midfielder,8178,Bayer Leverkusen,180,right,23130811
+1523327,Farès Ghedjemis,Algeria,6317,2002-09-06,right winger,9891,Frosinone,183,left,2617879
+1576876,Anis Hadj Moussa,Algeria,6317,2002-02-11,right winger,10235,Feyenoord,176,left,20915112
+210683,Aïssa Mandi,Algeria,6317,1991-10-22,center back,8581,Levante,186,right,1005703
+278343,Riyad Mahrez,Algeria,6317,1991-02-21,right winger,2530,Al Ahli,179,left,3582585
+500520,Nabil Bentaleb,Algeria,6317,1994-11-24,defensive midfielder,8639,Lille,187,left,931803
+559065,Ramy Bensebaini,Algeria,6317,1995-04-16,center back,9789,Borussia Dortmund,186,left,11871091
+770880,Luca Zidane,Algeria,6317,1998-05-13,keeper,7878,Granada,183,right,743782
+776299,Houssem Aouar,Algeria,6317,1998-06-30,attacking midfielder,8577,Al Ittihad,175,right,6776326
+844437,Amine Gouiri,Algeria,6317,2000-02-16,striker,8592,Marseille,180,right,27813453
+933845,Rayan Aït-Nouri,Algeria,6317,2001-06-06,left back,8456,Manchester City,180,left,43141768
+1022309,Gédéon Kalulu,DR Congo,6321,1997-08-29,right back,2136,Aris Limassol,176,right,693845
+1049799,Nathanaël Mbuku,DR Congo,6321,2002-03-16,left winger,8406,Augsburg,170,left,1505904
+1116042,Fiston Mayele,DR Congo,6321,1994-06-24,striker,517894,Pyramids FC,185,right,1006694
+1132814,Steve Kapuadi,DR Congo,6321,1998-04-30,center back,8024,Widzew Łódź,196,left,1416114
+1257080,Matthieu Epolo,DR Congo,6321,2005-01-15,keeper,9985,Standard Liege,183,right,6537663
+1302121,Brian Cipenga,DR Congo,6321,1998-03-11,left winger,9865,Almeria,169,right,537027
+1359649,Noah Sadiki,DR Congo,6321,2004-12-17,central midfielder,8472,Sunderland,173,right,34369014
+1428153,Ngal Ayel Mukau,DR Congo,6321,2004-11-03,right winger,8639,Lille,188,left,14410264
+163205,Gaël Kakuta,DR Congo,6321,1991-06-21,striker,8120,AE Larissa,173,left,371433
+201939,Cédric Bakambu,DR Congo,6321,1991-04-11,striker,8603,Real Betis,183,right,1086007
+277761,Chancel Mbemba,DR Congo,6321,1994-08-08,center back,8639,Lille,182,right,1463786
+418137,Arthur Masuaku,DR Congo,6321,1993-11-07,left back,8472,Sunderland,179,left,1333736
+466132,Théo Bongonda,DR Congo,6321,1995-11-20,right winger,8643,Spartak Moscow,177,left,1714573
+490122,Aaron Tshibola,DR Congo,6321,1995-01-02,defensive midfielder,8597,Kilmarnock,190,right,86400
+500932,Joris Kayembe Ditu,DR Congo,6321,1994-08-08,left back,9987,Genk,180,left,1396783
+666857,Yoane Wissa,DR Congo,6321,1996-09-03,striker,10261,Newcastle United,176,right,25272439
+690149,Axel Tuanzebe,DR Congo,6321,1997-11-14,center back,8191,Burnley,183,right,2761590
+694060,Meschack Elia,DR Congo,6321,1997-08-06,right winger,4678,Alanyaspor,173,right,926764
+696932,Simon Banza,DR Congo,6321,1996-08-13,striker,102101,Al-Jazira,189,right,10582278
+743720,Charles Pickel,DR Congo,6321,1997-05-15,central midfielder,102124,Sharjah Cultural Club,187,right,1347968
+751762,Dylan Batubinsika,DR Congo,6321,1996-02-15,center back,8120,AE Larissa,185,right,173704
+760320,Aaron Wan-Bissaka,DR Congo,6321,1997-11-26,right back,8654,West Ham United,183,right,22270932
+866108,Samuel Moutoussamy,DR Congo,6321,1996-08-12,defensive midfielder,10187,Atromitos,176,left,569836
+909803,Edo Kayembe,DR Congo,6321,1998-06-03,central midfielder,9817,Watford,183,left,2063614
+912286,Lionel Mpasi-Nzau,DR Congo,6321,1994-08-01,keeper,9746,Le Havre,182,right,359812
+976996,Timothy Fayulu,DR Congo,6321,1999-07-24,keeper,10179,Sion,192,right,542306
+1107280,Pape Sarr,Senegal,6395,2002-09-14,central midfielder,8586,Tottenham Hotspur,184,right,39271255
+1197347,Nicolas Jackson,Senegal,6395,2001-06-20,striker,8455,Chelsea,187,right,39658770
+1230848,Bamba Dieng,Senegal,6395,2000-03-23,striker,8689,Lorient,178,right,2415727
+1254147,Antoine Mendy,Senegal,6395,2004-05-27,center back,9831,Nice,187,right,7726033
+1285866,Habib Diarra,Senegal,6395,2004-01-03,central midfielder,8472,Sunderland,179,right,39176788
+1426170,Mamadou Sarr,Senegal,6395,2005-08-29,center back,8455,Chelsea,194,right,29125685
+1434889,Assane Diao,Senegal,6395,2005-09-07,right winger,10171,Como,185,right,26816758
+1436305,Lamine Camara,Senegal,6395,2004-01-01,defensive midfielder,9829,Monaco,173,right,36859160
+1451265,Malick Diouf,Senegal,6395,2004-12-28,left back,8654,West Ham United,183,left,37962523
+1593857,Ibrahim Mbaye,Senegal,6395,2008-01-24,right winger,9847,Paris Saint-Germain,175,right,32190515
+179410,Idrissa Gueye,Senegal,6395,1989-09-26,defensive midfielder,8668,Everton,174,right,1300989
+1798782,Bara Ndiaye,Senegal,6395,2007-12-31,defensive midfielder,1882872,Gambinos Stars,180,right,1267491
+210428,Kalidou Koulibaly,Senegal,6395,1991-06-20,center back,2529,Al Hilal,186,right,2696583
+303339,Sadio Mané,Senegal,6395,1992-04-10,left midfielder,101918,Al Nassr FC,175,right,7888875
+466436,Mory Diaw,Senegal,6395,1993-06-22,keeper,9746,Le Havre,197,right,928216
+588626,Abdoulaye Seck,Senegal,6395,1992-06-04,center back,10185,Maccabi Haifa,192,right,245903
+592102,Moussa Niakhaté,Senegal,6395,1996-03-08,center back,9748,Lyon,180,left,16769936
+766574,Yehvann Diouf,Senegal,6395,1999-11-16,keeper,9831,Nice,190,right,7159686
+771294,Ismaïla Sarr,Senegal,6395,1998-02-25,attacking midfielder,9826,Crystal Palace,185,right,37376917
+773229,Édouard Mendy,Senegal,6395,1992-03-01,keeper,2530,Al Ahli,197,right,1857844
+819972,Cherif Ndiaye,Senegal,6395,1996-01-23,striker,9750,Samsunspor,190,right,3533638
+837061,Krépin Diatta,Senegal,6395,1999-02-25,right back,9829,Monaco,173,right,3408763
+844544,Pape Gueye,Senegal,6395,1999-01-24,central midfielder,10205,Villarreal,189,left,26962003
+872396,Pathé Ciss,Senegal,6395,1994-03-16,center back,8370,Rayo Vallecano,183,right,1511118
+906945,Ismail Jakobs,Senegal,6395,1999-08-17,left back,8637,Galatasaray,184,left,6340004
+965764,Iliman Ndiaye,Senegal,6395,2000-03-06,right winger,8668,Everton,180,right,47014030
+1041660,Eren Elmali,Turkiye,6595,2000-07-07,left back,8637,Galatasaray,180,left,4302054
+1092015,Oguz Aydin,Turkiye,6595,2000-10-27,left winger,8695,Fenerbahçe,183,right,7805560
+1117570,Kerem Aktürkoglu,Turkiye,6595,1998-10-21,left winger,8695,Fenerbahçe,173,right,20226783
+1183589,Ismail Yüksek,Turkiye,6595,1999-01-26,defensive midfielder,8695,Fenerbahçe,183,right,13382504
+1253890,Arda Güler,Turkiye,6595,2005-02-25,attacking midfielder,8633,Real Madrid,176,left,100256350
+1367924,Can Uzun,Turkiye,6595,2005-11-11,attacking midfielder,9810,Eintracht Frankfurt,186,right,46553419
+1406300,Deniz Gül,Turkiye,6595,2004-07-02,striker,9773,FC Porto,190,right,6214902
+1412132,Kenan Yildiz,Turkiye,6595,2005-05-04,attacking midfielder,9885,Juventus,185,both,74875120
+150372,Mert Günok,Turkiye,6595,1989-03-01,keeper,8695,Fenerbahçe,196,right,427287
+291399,Abdülkerim Bardakci,Turkiye,6595,1994-09-07,center back,8637,Galatasaray,184,left,4134696
+304733,Hakan Çalhanoglu,Turkiye,6595,1994-02-08,central midfielder,8636,Inter,176,right,11038093
+316544,Irfan Kahveci,Turkiye,6595,1995-07-15,right winger,8695,Fenerbahçe,176,left,1878876
+424380,Samet Akaydin,Turkiye,6595,1994-03-13,center back,9752,Trabzonspor,190,right,707563
+441164,Kaan Ayhan,Turkiye,6595,1994-11-10,center back,8637,Galatasaray,184,right,1156720
+602261,Caglar Söyüncü,Turkiye,6595,1996-05-23,center back,8695,Fenerbahçe,187,both,2940900
+603669,Ugurcan Çakir,Turkiye,6595,1996-04-05,keeper,8637,Galatasaray,191,right,14730014
+738064,Salih Özcan,Turkiye,6595,1998-01-11,defensive midfielder,10188,Beşiktaş,180,right,1869708
+774448,Ferdi Kadioglu,Turkiye,6595,1999-10-07,left back,10204,Brighton & Hove Albion,173,right,33783843
+823078,Merih Demiral,Turkiye,6595,1998-03-05,center back,2530,Al Ahli,192,right,12772408
+845990,Ozan Kabak,Turkiye,6595,2000-03-25,center back,8226,Hoffenheim,185,right,4079119
+845991,Yunus Akgün,Turkiye,6595,2000-07-07,attacking midfielder,8637,Galatasaray,173,left,17250152
+866967,Altay Bayindir,Turkiye,6595,1998-04-14,keeper,10260,Manchester United,198,right,6777005
+867225,Zeki Çelik,Turkiye,6595,1997-02-17,right wing-back,9885,Juventus,180,right,8748384
+890232,Baris Alper Yilmaz,Turkiye,6595,2000-05-23,left winger,8637,Galatasaray,186,right,20767203
+904098,Mert Müldür,Turkiye,6595,1999-04-03,right back,8695,Fenerbahçe,188,right,5331187
+935409,Orkun Kökcü,Turkiye,6595,2000-12-29,defensive midfielder,10188,Beşiktaş,175,both,23867436
+1137705,Enzo Fernández,Argentina,6706,2001-01-17,attacking midfielder,8455,Chelsea,178,right,102870838
+1216079,José Manuel López,Argentina,6706,2000-12-06,striker,10283,Palmeiras,190,left,20539340
+1226147,Giuliano Simeone,Argentina,6706,2002-12-18,right midfielder,9906,Atletico Madrid,173,right,40282654
+1272440,Valentín Barco,Argentina,6706,2004-07-23,defensive midfielder,9848,Strasbourg,170,left,27767939
+1347574,Nico Paz,Argentina,6706,2004-09-08,attacking midfielder,10171,Como,186,left,58121663
+174321,Nicolás Otamendi,Argentina,6706,1988-02-12,center back,10076,River Plate,183,right,934894
+195750,Nicolás Tagliafico,Argentina,6706,1992-08-31,left back,9748,Lyon,169,left,2835710
+237606,Leandro Paredes,Argentina,6706,1994-06-29,central midfielder,10077,Boca Juniors,180,right,2731002
+245555,Gerónimo Rulli,Argentina,6706,1992-05-20,keeper,8592,Marseille,189,right,4792618
+268375,Emiliano Martínez,Argentina,6706,1992-09-02,keeper,10252,Aston Villa,195,right,18624999
+30981,Lionel Messi,Argentina,6706,1987-06-24,striker,960720,Inter Miami CF,170,left,12783392
+324578,Rodrigo De Paul,Argentina,6706,1994-05-24,central midfielder,960720,Inter Miami CF,178,right,10088005
+389050,Juan Musso,Argentina,6706,1994-05-06,keeper,9906,Atletico Madrid,191,right,1725822
+604126,Giovani Lo Celso,Argentina,6706,1996-04-09,attacking midfielder,8603,Real Betis,177,left,11068703
+687008,Gonzalo Montiel,Argentina,6706,1997-01-01,right back,10076,River Plate,175,right,2254445
+690230,Lautaro Martínez,Argentina,6706,1997-08-22,striker,8636,Inter,174,right,64943907
+693599,Exequiel Palacios,Argentina,6706,1998-10-05,defensive midfielder,8178,Bayer Leverkusen,177,right,29016312
+726345,Nahuel Molina,Argentina,6706,1998-04-06,right back,9906,Atletico Madrid,175,right,12622622
+785411,Marcos Senesi,Argentina,6706,1997-05-10,center back,8586,Tottenham Hotspur,184,left,18790262
+789066,Cristian Romero,Argentina,6706,1998-04-27,center back,8586,Tottenham Hotspur,185,right,51943783
+812652,Facundo Medina,Argentina,6706,1999-05-28,center back,8592,Marseille,184,left,18045188
+831489,Alexis Mac Allister,Argentina,6706,1998-12-24,defensive midfielder,8650,Liverpool,174,right,84925776
+841672,Nicolás González,Argentina,6706,1998-04-06,left midfielder,9885,Juventus,180,left,20067914
+847983,Lisandro Martínez,Argentina,6706,1998-01-18,center back,10260,Manchester United,178,left,36731175
+955271,Thiago Almada,Argentina,6706,2001-04-26,left midfielder,9906,Atletico Madrid,171,right,19982282
+974753,Julián Álvarez,Argentina,6706,2000-01-31,striker,9906,Atletico Madrid,170,right,103724288
+1032039,Jackson Porozo,Ecuador,6707,2000-08-04,center back,162418,Tijuana,192,right,1777284
+1108611,Pedro Vite,Ecuador,6707,2002-03-09,central midfielder,1946,Pumas,172,left,7050369
+1137667,Piero Hincapié,Ecuador,6707,2002-01-09,left back,9825,Arsenal,184,left,56767496
+1137668,Moisés Caicedo,Ecuador,6707,2001-11-02,defensive midfielder,8455,Chelsea,178,right,121001035
+1137670,Willian Pacho,Ecuador,6707,2001-10-16,center back,9847,Paris Saint-Germain,188,left,67849291
+1274400,Alan Minda,Ecuador,6707,2003-05-14,striker,10272,Atletico MG,174,right,2924948
+1287010,Nilson Angulo,Ecuador,6707,2003-06-19,left winger,8472,Sunderland,182,right,8674415
+1353364,Anthony Valencia,Ecuador,6707,2003-07-21,attacking midfielder,9988,Royal Antwerp,174,left,950961
+1354085,Joel Ordóñez,Ecuador,6707,2004-04-21,center back,8342,Club Brugge,185,right,37004425
+1391753,Yaimar Medina,Ecuador,6707,2004-11-05,left back,9987,Genk,178,left,3966958
+1418122,Jeremy Arévalo,Ecuador,6707,2005-03-19,striker,8458,VfB Stuttgart II,173,left,3151435
+1421270,Kevin Rodríguez,Ecuador,6707,2000-03-04,striker,7978,Union St.Gilloise,190,right,3615436
+1443464,Kendry Páez,Ecuador,6707,2007-05-04,right winger,10076,River Plate,178,left,11866705
+146801,Hernán Galíndez,Ecuador,6707,1987-03-30,keeper,10081,Huracan,189,right,819512
+1477417,Denil Castillo,Ecuador,6707,2004-03-24,central midfielder,8113,FC Midtjylland,189,right,
+1614051,Gonzalo Valle,Ecuador,6707,1996-02-28,keeper,6721,LDU de Quito,186,right,891166
+195927,Enner Valencia,Ecuador,6707,1989-11-04,striker,,,177,right,1001139
+688278,Pervis Estupinán,Ecuador,6707,1998-01-21,left midfielder,8564,Milan,175,left,16253460
+766159,Jordy Caicedo,Ecuador,6707,1997-11-18,striker,10081,Huracan,186,right,1041384
+825641,Félix Torres,Ecuador,6707,1997-01-11,center back,8702,Internacional,187,right,1387148
+832171,Alan Franco,Ecuador,6707,1998-08-21,defensive midfielder,10272,Atletico MG,175,right,2234971
+845368,John Yeboah,Ecuador,6707,2000-06-23,striker,7881,Venezia,170,left,3143241
+848593,Ángelo Preciado,Ecuador,6707,1998-02-18,right midfielder,10272,Atletico MG,174,right,1910917
+950396,Jordy Alcívar,Ecuador,6707,1999-08-05,defensive midfielder,192875,Independiente del Valle,168,right,1097328
+978290,Moisés Ramirez,Ecuador,6707,2000-09-09,keeper,488099,Kifisia FC,185,right,702526
+980311,Gonzalo Plata,Ecuador,6707,2000-11-01,right winger,9770,Flamengo,178,left,7847282
+1097466,Micky van de Ven,Netherlands,6708,2001-04-19,center back,8586,Tottenham Hotspur,193,left,66132070
+1125720,Robin Roefs,Netherlands,6708,2003-01-17,keeper,8472,Sunderland,193,left,27365105
+1131987,Bart Verbruggen,Netherlands,6708,2002-08-18,keeper,10204,Brighton & Hove Albion,193,right,48262961
+1413846,Jorrel Hato,Netherlands,6708,2006-03-07,left back,8455,Chelsea,182,left,49568373
+198559,Marten de Roon,Netherlands,6708,1991-03-29,defensive midfielder,8524,Atalanta,185,right,2176838
+209405,Virgil van Dijk,Netherlands,6708,1991-07-08,center back,8650,Liverpool,193,right,6830396
+303824,Memphis Depay,Netherlands,6708,1994-02-13,striker,9808,Corinthians,178,right,4016301
+330643,Mark Flekken,Netherlands,6708,1993-06-13,keeper,8178,Bayer Leverkusen,189,both,5811877
+351999,Wout Weghorst,Netherlands,6708,1992-08-07,striker,8611,FC Twente,197,right,1629616
+417068,Nathan Aké,Netherlands,6708,1995-02-18,center back,8695,Fenerbahçe,180,left,13408370
+593118,Denzel Dumfries,Netherlands,6708,1996-04-18,right midfielder,8633,Real Madrid,189,right,19913221
+638622,Frenkie de Jong,Netherlands,6708,1997-05-12,defensive midfielder,8634,Barcelona,181,right,38529774
+660301,Donyell Malen,Netherlands,6708,1999-01-19,striker,8686,Roma,179,right,20979467
+774947,Guus Til,Netherlands,6708,1997-12-22,striker,8640,PSV Eindhoven,183,right,13641596
+794253,Justin Kluivert,Netherlands,6708,1999-05-05,attacking midfielder,8678,AFC Bournemouth,175,both,33580538
+806552,Cody Gakpo,Netherlands,6708,1999-05-07,left winger,8650,Liverpool,193,right,62190371
+837341,Noa Lang,Netherlands,6708,1999-06-17,left winger,9875,Napoli,170,right,20196214
+866516,Teun Koopmeiners,Netherlands,6708,1998-02-28,center back,9885,Juventus,186,left,23439844
+868344,Tijjani Reijnders,Netherlands,6708,1998-07-29,attacking midfielder,8456,Manchester City,185,right,55735720
+881640,Lutsharel Geertruida,Netherlands,6708,2000-07-18,right back,178475,RB Leipzig,184,right,24828837
+940446,Brian Brobbey,Netherlands,6708,2002-02-01,striker,8472,Sunderland,180,right,37543000
+941213,Crysencio Summerville,Netherlands,6708,2001-10-30,left winger,8654,West Ham United,174,right,32170648
+956683,Ryan Gravenberch,Netherlands,6708,2002-05-16,defensive midfielder,8650,Liverpool,190,right,94765001
+970243,Mats Wieffer,Netherlands,6708,1999-11-16,right back,10204,Brighton & Hove Albion,188,right,19147075
+970563,Quinten Timber,Netherlands,6708,2001-06-17,defensive midfielder,8592,Marseille,179,right,22609122
+974618,Jan Paul van Hecke,Netherlands,6708,2000-06-08,center back,8586,Tottenham Hotspur,189,right,39830120
+1014496,Odilon Kossounou,Ivory Coast,6709,2001-01-04,center back,8524,Atalanta,188,right,18753484
+1027472,Wilfried Singo,Ivory Coast,6709,2000-12-25,center back,8637,Galatasaray,190,right,22374096
+1070052,Amad Diallo,Ivory Coast,6709,2002-07-11,right winger,10260,Manchester United,174,left,54153293
+1087966,Evann Guessand,Ivory Coast,6709,2001-07-01,right winger,10252,Aston Villa,185,right,31733028
+1114979,Emmanuel Agbadou,Ivory Coast,6709,1997-06-17,center back,10188,Beşiktaş,192,right,17226909
+1186770,Parfait Guiagon,Ivory Coast,6709,2001-02-22,left winger,9986,Sporting Charleroi,169,right,2485608
+1199383,Ange-Yoan Bonny,Ivory Coast,6709,2003-10-25,striker,8636,Inter,189,right,26596532
+1213430,Elye Wahi,Ivory Coast,6709,2003-01-02,striker,9810,Eintracht Frankfurt,184,right,15932104
+1227012,Simon Adingra,Ivory Coast,6709,2002-01-01,left winger,8472,Sunderland,175,right,22694273
+1280201,Mohamed Koné,Ivory Coast,6709,2002-03-07,keeper,9986,Sporting Charleroi,186,right,855467
+1328540,Oumar Diakité,Ivory Coast,6709,2003-12-20,striker,9837,Reims,188,right,6004033
+1395704,Guéla Doué,Ivory Coast,6709,2002-10-17,right back,9848,Strasbourg,187,right,19413186
+1425182,Ousmane Diomande,Ivory Coast,6709,2003-12-04,center back,9768,Sporting CP,190,right,42749833
+1624586,Bazoumana Touré,Ivory Coast,6709,2006-03-02,left winger,10261,Newcastle United,178,left,28924204
+1666494,Christ Inao Oulaï,Ivory Coast,6709,2006-04-06,defensive midfielder,8535,Fiorentina,173,right,3169606
+1735453,Yan Diomande,Ivory Coast,6709,2006-11-14,right winger,178475,RB Leipzig,180,right,36755009
+470539,Jean Michaël Seri,Ivory Coast,6709,1991-07-19,central midfielder,8340,Maribor,169,right,105653
+575735,Nicolas Pépé,Ivory Coast,6709,1995-05-29,right midfielder,10205,Villarreal,178,left,3977129
+579747,Franck Kessié,Ivory Coast,6709,1996-12-19,defensive midfielder,2530,Al Ahli,180,right,7179639
+602211,Seko Fofana,Ivory Coast,6709,1995-05-07,central midfielder,9851,Rennes,183,right,5100308
+698273,Alban Lafont,Ivory Coast,6709,1999-01-23,keeper,9830,Nantes,191,right,1898007
+740997,Ghislain Konan,Ivory Coast,6709,1995-12-27,left back,9764,Gil Vicente,176,left,1651820
+787242,Evan N'Dicka,Ivory Coast,6709,1999-08-20,center back,8686,Roma,192,left,32396087
+795371,Ibrahim Sangaré,Ivory Coast,6709,1997-12-02,defensive midfielder,10203,Nottingham Forest,191,right,22674546
+802462,Christopher Opéri,Ivory Coast,6709,1997-04-29,left back,1933,Başakşehir,182,left,1928474
+873566,Yahia Fofana,Ivory Coast,6709,2000-08-21,keeper,2166,Rizespor,194,right,3959632
+1074586,Israel Reyes,Mexico,6710,2000-05-23,center back,6576,CF America,179,right,4431225
+1170238,Brian Gutiérrez,Mexico,6710,2003-06-17,central midfielder,7807,Chivas,178,right,6889241
+1227878,Raúl Rangel,Mexico,6710,2000-02-25,keeper,7807,Chivas,191,right,6303720
+1254394,Obed Vargas,Mexico,6710,2005-08-05,defensive midfielder,9906,Atletico Madrid,175,right,10041466
+1432212,Mateo Chávez,Mexico,6710,2004-05-12,left back,10229,AZ Alkmaar,176,left,4256758
+1456983,Armando González,Mexico,6710,2003-04-20,striker,7807,Chivas,179,right,4187040
+1670377,Gilberto Mora,Mexico,6710,2008-10-14,central midfielder,162418,Tijuana,168,right,9784114
+292313,Raul Jiménez,Mexico,6710,1991-05-05,striker,8602,Wolverhampton Wanderers,188,right,4004220
+31047,Guillermo Ochoa,Mexico,6710,1985-07-13,keeper,2134,AEL Limassol,185,right,128224
+527616,Luis Chávez,Mexico,6710,1996-01-15,defensive midfielder,9763,Dinamo Moscow,178,left,3633992
+558539,Guillermo Martínez,Mexico,6710,1995-03-15,striker,1946,Pumas,191,left,1117487
+559986,Orbelín Pineda,Mexico,6710,1996-03-24,central midfielder,7849,Monterrey,170,right,3749315
+597976,Jesús Gallardo,Mexico,6710,1994-08-15,left back,6618,Toluca,178,left,1699760
+664644,César Montes,Mexico,6710,1997-02-24,center back,8710,Lokomotiv Moscow,191,right,5119879
+720560,Julián Quiñones,Mexico,6710,1997-03-24,striker,101919,Al Qadsiah,176,right,10925339
+720737,Roberto Alvarado,Mexico,6710,1998-09-07,attacking midfielder,7807,Chivas,176,left,5867557
+727586,Jorge Sánchez,Mexico,6710,1997-12-10,right back,6577,Atlas,175,right,1350069
+728365,Alexis Vega,Mexico,6710,1997-11-25,left winger,6618,Toluca,174,right,4855292
+751164,Carlos Acevedo,Mexico,6710,1996-04-19,keeper,7857,Santos Laguna,184,right,1573378
+783505,Edson Álvarez,Mexico,6710,1997-10-24,defensive midfielder,8654,West Ham United,186,right,14719031
+895954,Álvaro Fidalgo,Mexico,6710,1997-04-09,attacking midfielder,8603,Real Betis,175,right,5684265
+914103,Johan Vásquez,Mexico,6710,1998-10-22,center back,10233,Genoa,185,left,13951595
+921174,Luis Romo,Mexico,6710,1995-06-05,center back,7807,Chivas,182,right,1934747
+954092,Santiago Giménez,Mexico,6710,2001-04-18,striker,8564,Milan,183,left,20083802
+971628,Érik Lira,Mexico,6710,2000-05-08,center back,6578,Cruz Azul,172,right,11603159
+977404,César Huerta,Mexico,6710,2000-12-03,right winger,8635,Anderlecht,171,right,3781331
+1031319,Amirhossein Hosseinzadeh,Iran,6711,2000-10-30,striker,176352,Tractor,178,right,966217
+1073012,Mohammad Mohebi,Iran,6711,1998-12-20,striker,8705,FC Rostov,176,left,1756928
+117222,Ehsan Hajisafi,Iran,6711,1990-02-25,left back,101611,Sepahan,178,left,108209
+1221526,Saleh Hardani,Iran,6711,1998-12-26,right back,101614,Esteghlal,176,right,372708
+1350138,Arya Yousefi,Iran,6711,2002-04-22,right back,101611,Sepahan,181,right,1033535
+1420509,Mohammad Ghorbani,Iran,6711,2001-10-07,central midfielder,102122,Al-Wahda,190,right,1004410
+1583232,Amir Mohammad Razzaghinia,Iran,6711,2006-04-11,defensive midfielder,101614,Esteghlal,187,right,1209448
+1729681,Danial Eiri,Iran,6711,2003-10-26,defender,101618,Zob Ahan,182,right,
+431418,Hossein Hosseini,Iran,6711,1992-06-30,keeper,101611,Sepahan,189,right,230222
+466890,Alireza Jahanbakhsh,Iran,6711,1993-08-11,right winger,7947,FCV Dender EH,183,right,243224
+500637,Hossein Kanani,Iran,6711,1994-03-23,center back,101610,Persepolis,188,right,797425
+505281,Saeid Ezatolahi,Iran,6711,1996-10-01,defensive midfielder,102119,Shabab Al-Ahli Dubai FC,189,right,928719
+505313,Alireza Beiranvand,Iran,6711,1992-09-21,keeper,176352,Tractor,195,right,167611
+505385,Roozbeh Cheshmi,Iran,6711,1993-07-24,central midfielder,101614,Esteghlal,194,right,104526
+505959,Ramin Rezaeian,Iran,6711,1990-03-21,right back,101614,Esteghlal,184,right,68779
+505960,Ali Alipour,Iran,6711,1995-11-11,forward,101610,Persepolis,181,both,558370
+511397,Shoja Khalilzadeh,Iran,6711,1989-05-14,center back,176352,Tractor,183,right,67977
+532220,Saman Ghoddos,Iran,6711,1993-09-06,central midfielder,209190,Al Ittihad Kalba,176,right,770484
+619506,Mehdi Taremi,Iran,6711,1992-07-18,striker,8638,Olympiacos,185,right,1468373
+621519,Mehdi Torabi,Iran,6711,1994-09-10,left midfielder,176352,Tractor,185,right,599613
+630459,Milad Mohammadi,Iran,6711,1993-09-29,left back,101610,Persepolis,178,left,386186
+641121,Shahriyar Moghanloo,Iran,6711,1994-12-21,striker,209190,Al Ittihad Kalba,189,left,471348
+848314,Mehdi Ghayedi,Iran,6711,1998-12-05,striker,102123,Al-Nasr SC,166,right,2239106
+872575,Ali Nemati,Iran,6711,1996-02-08,center back,139914,Foolad Khuzestan,182,right,154122
+872590,Payam Niazmand,Iran,6711,1995-04-06,keeper,101610,Persepolis,193,right,295764
+892709,Dennis Eckert,Iran,6711,1997-01-09,attacking midfielder,9985,Standard Liege,182,right,1652456
+1026065,Matt Freese,USA,6713,1998-09-02,keeper,546238,New York City FC,191,right,1194912
+1036401,Ricardo Pepi,USA,6713,2003-01-09,striker,8640,PSV Eindhoven,185,right,26200000
+1071179,Giovanni Reyna,USA,6713,2002-11-13,attacking midfielder,9788,Borussia Mönchengladbach,183,right,6761473
+1126058,Malik Tillman,USA,6713,2002-05-28,attacking midfielder,8178,Bayer Leverkusen,187,right,31022777
+1136096,Sebastian Berhalter,USA,6713,2001-05-10,defensive midfielder,307691,Vancouver Whitecaps,175,right,3359720
+1245998,Chris Brady,USA,6713,2004-03-03,keeper,6397,Chicago Fire FC,190,right,2222301
+1338696,Alex Freeman,USA,6713,2004-08-09,right back,10205,Villarreal,188,right,3069180
+1348329,Max Arfsten,USA,6713,2001-04-19,left wing-back,6001,Columbus Crew,185,left,2275491
+198444,Tim Ream,USA,6713,1987-10-05,center back,1323940,Charlotte FC,186,left,86400
+621882,Álex Zendejas,USA,6713,1998-02-07,right winger,6576,CF America,167,left,8248247
+621946,Cristian Roldan,USA,6713,1995-06-03,defensive midfielder,130394,Seattle Sounders FC,173,right,1585002
+662428,Antonee Robinson,USA,6713,1997-08-08,left back,9879,Fulham,183,left,28951101
+688271,Auston Trusty,USA,6713,1998-08-12,center back,9925,Celtic,188,left,4850977
+688295,Christian Pulisic,USA,6713,1998-09-18,striker,8564,Milan,178,right,40102247
+729769,Tyler Adams,USA,6713,1999-02-14,defensive midfielder,8678,AFC Bournemouth,175,right,24269133
+729988,Matt Turner,USA,6713,1994-06-24,keeper,9748,Lyon,190,right,1227737
+825623,Miles Robinson,USA,6713,1997-03-14,center back,722265,FC Cincinnati,188,right,1627663
+848266,Weston McKennie,USA,6713,1998-08-28,right wing-back,9885,Juventus,185,right,20998073
+848268,Haji Wright,USA,6713,1998-03-27,striker,8669,Coventry City,193,right,11821894
+889536,Timothy Weah,USA,6713,2000-02-22,right wing-back,8592,Marseille,183,right,20384000
+892816,Sergiño Dest,USA,6713,2000-11-03,right back,8640,PSV Eindhoven,170,right,23450403
+924485,Mark McKenzie,USA,6713,1999-02-25,center back,9941,Toulouse,184,right,5487971
+950829,Chris Richards,USA,6713,2000-03-28,center back,9826,Crystal Palace,188,right,21640235
+952322,Brenden Aaronson,USA,6713,2000-10-22,right winger,8463,Leeds United,178,right,18703691
+959696,Joseph Scally,USA,6713,2002-12-31,right wing-back,9788,Borussia Mönchengladbach,178,right,9669762
+982677,Folarin Balogun,USA,6713,2001-07-03,striker,9829,Monaco,179,right,25550741
+1130691,Kamaldeen Sulemana,Ghana,6714,2002-02-15,attacking midfielder,8524,Atalanta,175,right,18194011
+1177779,Alidu Seidu,Ghana,6714,2000-06-04,center back,9851,Rennes,173,right,6473864
+1201760,Marvin Senaya,Ghana,6714,2001-01-28,right back,8583,Auxerre,179,right,2214604
+1211610,Augustine Boakye,Ghana,6714,2000-11-03,right winger,9853,Saint-Etienne,173,left,4515715
+1220633,Prince Adu,Ghana,6714,2003-09-23,striker,6033,Viktoria Plzen,179,right,2912551
+1265626,Abdul Fatawu,Ghana,6714,2004-03-08,right winger,8197,Leicester City,177,left,21775131
+1338390,Ernest Nuamah,Ghana,6714,2003-11-01,forward,9748,Lyon,178,left,13769819
+1429607,Kojo Peprah Oppong,Ghana,6714,2004-06-04,center back,9831,Nice,188,right,10467733
+1432344,Jonas Adjetey,Ghana,6714,2003-12-13,center back,8721,Wolfsburg,188,right,7922994
+1452385,Christopher Bonsu Baah,Ghana,6714,2004-12-14,left midfielder,101919,Al Qadsiah,172,left,12120359
+154280,Jordan Ayew,Ghana,6714,1991-09-11,striker,8197,Leicester City,182,right,1232388
+1615927,Caleb Yirenkyi,Ghana,6714,2006-01-15,central midfielder,10202,Nordsjælland,182,right,6648250
+1806615,Benjamin Asare,Ghana,6714,1992-07-13,keeper,,,188,right,
+324910,Abdul Rahman Baba,Ghana,6714,1994-07-02,left back,8619,PAOK Thessaloniki,180,left,1070630
+434325,Thomas Partey,Ghana,6714,1993-06-13,central midfielder,10205,Villarreal,185,right,2116297
+562801,Derrick Luckassen,Ghana,6714,1995-07-03,center back,2137,Pafos FC,186,right,547980
+604105,Iñaki Williams,Ghana,6714,1994-06-15,right winger,8315,Athletic Club,186,right,15553356
+615411,Lawrence Ati-Zigi,Ghana,6714,1996-11-29,keeper,10190,St. Gallen,188,right,888373
+771630,Gideon Mensah,Ghana,6714,1998-07-18,left back,8722,1. FC Köln,178,left,2247783
+776184,Brandon Thomas-Asante,Ghana,6714,1998-12-29,left winger,8669,Coventry City,180,right,6469067
+776591,Abdul Mumin,Ghana,6714,1998-06-06,defender,,,188,right,2110965
+873227,Jerome Opoku,Ghana,6714,1998-10-14,center back,1933,Başakşehir,195,left,3133136
+883823,Elisha Owusu,Ghana,6714,1997-11-07,central midfielder,8583,Auxerre,182,right,2252937
+933576,Antoine Semenyo,Ghana,6714,2000-01-07,right winger,8456,Manchester City,185,right,63965105
+948745,Kwasi Sibo,Ghana,6714,1998-06-24,defensive midfielder,8670,Real Oviedo,183,right,1119128
+963812,Joseph Anang,Ghana,6714,2000-06-08,keeper,1854,St. Patrick's Athletic,183,right,79064
+1023887,Tsuyoshi Watanabe,Japan,6715,1997-02-05,center back,10235,Feyenoord,186,right,9490272
+1033111,Kaishu Sano,Japan,6715,2000-12-30,central midfielder,9905,Mainz 05,176,right,26323596
+1053679,Zion Suzuki,Japan,6715,2002-08-21,keeper,10167,Parma,189,right,21668407
+1134467,Yuito Suzuki,Japan,6715,2001-10-25,attacking midfielder,8358,Freiburg,175,right,15078138
+1232143,Tomoki Hayakawa,Japan,6715,1999-03-03,keeper,4397,Kashima Antlers,186,right,1136329
+1337765,Junnosuke Suzuki,Japan,6715,2003-07-12,right back,8391,FC København,180,right,1771547
+1436730,Keisuke Goto,Japan,6715,2005-06-03,striker,8358,Freiburg,191,right,3973063
+1611223,Kento Shiogai,Japan,6715,2005-03-26,striker,8721,Wolfsburg,180,right,7554337
+523731,Shogo Taniguchi,Japan,6715,1991-07-15,center back,9997,St.Truiden,182,right,517741
+604044,Junya Ito,Japan,6715,1993-03-09,left winger,9987,Genk,176,right,1849143
+620917,Ko Itakura,Japan,6715,1997-01-27,center back,8593,Ajax,185,right,9487856
+621515,Daichi Kamada,Japan,6715,1996-08-05,defensive midfielder,9826,Crystal Palace,184,right,10708722
+629805,Ritsu Doan,Japan,6715,1998-06-16,right winger,9810,Eintracht Frankfurt,172,left,19495937
+664444,Takehiro Tomiyasu,Japan,6715,1998-11-05,center back,,,187,right,4456133
+727837,Koki Ogawa,Japan,6715,1997-08-08,striker,8464,NEC Nijmegen,186,right,1559788
+728765,Daizen Maeda,Japan,6715,1997-10-20,striker,9925,Celtic,173,right,11480177
+848289,Takefusa Kubo,Japan,6715,2001-06-04,right winger,8560,Real Sociedad,174,left,29465972
+851626,Hiroki Ito,Japan,6715,1999-05-12,center back,9823,Bayern München,186,left,17447233
+857120,Ayumu Seko,Japan,6715,2000-06-07,center back,9746,Le Havre,183,right,3046965
+887704,Keito Nakamura,Japan,6715,2000-07-28,left winger,9837,Reims,180,right,8402643
+915111,Shuto Machino,Japan,6715,1999-09-30,striker,9788,Borussia Mönchengladbach,184,right,5937194
+922808,Keisuke Osako,Japan,6715,1999-07-28,keeper,6224,Sanfrecce Hiroshima,186,right,1606500
+924610,Yukinari Sugawara,Japan,6715,2000-06-28,right back,8466,Southampton,179,right,6275956
+935728,Ao Tanaka,Japan,6715,1998-09-10,defensive midfielder,8463,Leeds United,180,right,10882628
+942393,Ayase Ueda,Japan,6715,1998-08-28,striker,10235,Feyenoord,182,right,17343060
+98254,Yuto Nagatomo,Japan,6715,1986-09-12,right back,4399,FC Tokyo,170,both,163495
+1101030,Kai Trewin,Australia,6716,2001-05-18,defensive midfielder,546238,New York City FC,179,right,816248
+1132069,Mohamed Touré,Australia,6716,2004-03-26,striker,9850,Norwich City,186,right,2472825
+1220549,Tete Yengi,Australia,6716,2000-11-28,striker,194011,Machida Zelvia,197,right,475079
+1250885,Nishan Velupillay,Australia,6716,2001-05-07,right winger,6230,Melbourne Victory,181,right,328716
+1308909,Cristian Volpato,Australia,6716,2003-11-15,right winger,7943,Sassuolo,187,left,11461964
+1316930,Jordan Bos,Australia,6716,2002-10-29,left back,10235,Feyenoord,180,left,7626341
+1318686,Alessandro Circati,Australia,6716,2003-10-10,center back,10167,Parma,190,right,12507684
+1327214,Nestory Irankunda,Australia,6716,2006-02-09,striker,9817,Watford,175,right,9946834
+1335765,Patrick Beach,Australia,6716,2003-08-06,keeper,10242,Troyes,190,left,1030395
+1527363,Paul Okon-Engstler,Australia,6716,2005-01-24,defensive midfielder,10164,Sydney FC,186,left,945649
+1686118,Lucas Herrington,Australia,6716,2007-09-05,center back,8314,Colorado Rapids,192,right,1914603
+185014,Mathew Leckie,Australia,6716,1991-02-04,central midfielder,203576,Melbourne City FC,181,right,127332
+185644,Mathew Ryan,Australia,6716,1992-04-08,keeper,,,184,right,1514941
+192735,Aziz Behich,Australia,6716,1990-12-16,left back,203576,Melbourne City FC,170,left,229917
+302176,Paul Izzo,Australia,6716,1995-01-06,keeper,8410,Randers FC,185,right,440150
+369742,Jackson Irvine,Australia,6716,1993-03-07,defensive midfielder,8152,St. Pauli,180,right,1063568
+416124,Milos Degenek,Australia,6716,1994-04-28,center back,8621,APOEL Nicosia,187,right,192918
+418799,Jason Geria,Australia,6716,1993-05-10,center back,4425,Albirex Niigata,184,right,292346
+421328,Awer Mabil,Australia,6716,1995-09-15,right winger,10279,Castellon,179,right,273015
+564842,Cameron Burgess,Australia,6716,1995-10-21,center back,10003,Swansea City,194,left,1124112
+671518,Harry Souttar,Australia,6716,1998-10-22,center back,8197,Leicester City,198,right,3030545
+675762,Ajdin Hrustic,Australia,6716,1996-07-05,central midfielder,9791,Heracles,183,left,338276
+785377,Aiden O'Neill,Australia,6716,1998-07-04,defensive midfielder,546238,New York City FC,178,right,1576682
+885870,Connor Metcalfe,Australia,6716,1999-11-05,attacking midfielder,8152,St. Pauli,178,left,1250291
+889093,Jacob Italiano,Australia,6716,2001-07-30,attacking midfielder,10012,Grazer AK,177,both,266203
+970544,Cameron Devlin,Australia,6716,1998-06-07,central midfielder,8548,Rangers,170,right,1116772
+1022649,Dan Ndoye,Switzerland,6717,2000-10-25,right winger,10203,Nottingham Forest,184,right,38981884
+1067168,Zeki Amdouni,Switzerland,6717,2000-12-04,forward,8191,Burnley,185,both,10961515
+1107298,Marvin Keller,Switzerland,6717,2002-07-03,keeper,10192,Young Boys,190,right,8364977
+115591,Ricardo Rodríguez,Switzerland,6717,1992-08-25,left back,8603,Real Betis,180,left,1587551
+1161211,Fabian Rieder,Switzerland,6717,2002-02-16,attacking midfielder,8406,Augsburg,179,left,9012468
+1163219,Ardon Jashari,Switzerland,6717,2002-07-30,central midfielder,8564,Milan,181,left,30516497
+1257648,Aurèle Amenda,Switzerland,6717,2003-07-31,center back,8669,Coventry City,194,right,9212534
+1270002,Luca Jaquez,Switzerland,6717,2003-06-02,center back,10269,VfB Stuttgart,187,right,11652116
+1520063,Johan Manzambi,Switzerland,6717,2005-10-14,defensive midfielder,10252,Aston Villa,182,right,31466201
+201704,Remo Freuler,Switzerland,6717,1992-04-15,defensive midfielder,9857,Bologna,180,right,2661166
+207236,Granit Xhaka,Switzerland,6717,1992-09-27,defensive midfielder,8472,Sunderland,185,left,15412041
+274787,Yvon Mvogo,Switzerland,6717,1994-06-06,keeper,8689,Lorient,186,right,1937070
+275034,Silvan Widmer,Switzerland,6717,1993-03-05,right midfielder,9905,Mainz 05,182,right,754793
+517346,Nico Elvedi,Switzerland,6717,1996-09-30,center back,9788,Borussia Mönchengladbach,187,right,6229277
+521318,Manuel Akanji,Switzerland,6717,1995-07-19,center back,8636,Inter,188,right,16301574
+527103,Breel Embolo,Switzerland,6717,1997-02-14,striker,9851,Rennes,187,right,11466711
+598355,Denis Zakaria,Switzerland,6717,1996-11-20,center back,9829,Monaco,189,right,23737986
+618774,Christian Fassnacht,Switzerland,6717,1993-11-11,right winger,10192,Young Boys,185,right,1239429
+705484,Eray Cömert,Switzerland,6717,1998-02-04,center back,,,183,right,1520685
+707970,Djibril Sow,Switzerland,6717,1997-02-06,central midfielder,8302,Sevilla,184,right,6141708
+726956,Cedric Itten,Switzerland,6717,1996-12-27,striker,8697,Werder Bremen,189,right,1184447
+759817,Miro Muheim,Switzerland,6717,1998-03-24,left midfielder,9790,Hamburger SV,182,left,3653229
+764018,Gregor Kobel,Switzerland,6717,1997-12-06,keeper,9789,Borussia Dortmund,193,right,36955304
+792756,Michel Aebischer,Switzerland,6717,1997-01-06,central midfielder,6479,Pisa,185,right,3898698
+860752,Rubén Vargas,Switzerland,6717,1998-08-05,left winger,8302,Sevilla,174,right,11386934
+915797,Noah Okafor,Switzerland,6717,2000-05-24,left winger,8463,Leeds United,185,right,21260660
+1015128,Elias Achouri,Tunisia,6719,1999-02-10,left midfielder,8391,FC København,177,right,1891963
+1055316,Anis Ben Slimane,Tunisia,6719,2001-03-16,attacking midfielder,9850,Norwich City,188,both,1864908
+1113785,Hannibal Mejbri,Tunisia,6719,2003-01-21,attacking midfielder,8191,Burnley,177,right,17758848
+1131896,Hadj Mahmoud,Tunisia,6719,2000-04-24,central midfielder,8153,Espérance,179,right,1480067
+1131928,Amine Ben Hamida,Tunisia,6719,1995-12-15,left back,8153,Espérance,181,left,339852
+1160097,Omar Rekik,Tunisia,6719,2001-12-20,center back,8340,Maribor,186,right,312786
+1244924,Ismaël Gharbi,Tunisia,6719,2004-04-10,attacking midfielder,10264,Braga,173,right,7029177
+1285773,Elias Saad,Tunisia,6719,1999-12-27,left winger,915807,Nashville SC,185,right,1505143
+1311408,Hazem Mastouri,Tunisia,6719,1997-06-18,striker,1068353,Dynamo Makhachkala,191,right,538042
+1413151,Moutaz Neffati,Tunisia,6719,2004-09-04,right back,8449,IFK Norrköping,182,right,635520
+1685596,Rayan Elloumi,Tunisia,6719,2007-09-17,striker,307691,Vancouver Whitecaps,180,right,1241227
+1797902,Adem Arous,Tunisia,6719,2004-07-17,center back,4685,Kasımpaşa,188,right,1889397
+304348,Rani Khedira,Tunisia,6719,1994-01-27,defensive midfielder,8149,Union Berlin,188,right,1544379
+543363,Sabri Ben Hessen,Tunisia,6719,1996-06-13,keeper,102106,CS Sfaxien,189,right,341867
+566187,Ali Abdi,Tunisia,6719,1993-12-20,left back,9831,Nice,177,left,1387610
+574642,Ellyes Skhiri,Tunisia,6719,1995-05-10,defensive midfielder,9810,Eintracht Frankfurt,185,right,3619283
+712132,Mortadha Ben Ouanes,Tunisia,6719,1994-07-02,left winger,4685,Kasımpaşa,182,left,1009276
+771686,Dylan Bronn,Tunisia,6719,1995-06-19,center back,9777,Servette,186,right,433946
+789596,Yan Valery,Tunisia,6719,1999-02-22,right back,10192,Young Boys,180,right,819011
+845336,Firas Chaouat,Tunisia,6719,1996-05-08,striker,102102,Club Africain,185,right,643356
+846392,Montassar Talbi,Tunisia,6719,1998-05-26,center back,8689,Lorient,190,right,5456416
+921919,Sebastian Tounekti,Tunisia,6719,2002-07-13,left winger,9925,Celtic,183,right,4791385
+982855,Aymen Dahmen,Tunisia,6719,1997-01-28,keeper,102106,CS Sfaxien,188,right,565884
+1031325,Martín Zubimendi,Spain,6720,1999-02-02,central midfielder,9825,Arsenal,180,right,69262856
+1047676,Yéremi Pino,Spain,6720,2002-10-20,attacking midfielder,9826,Crystal Palace,172,right,44227398
+1083323,Pedri,Spain,6720,2002-11-25,defensive midfielder,8634,Barcelona,174,right,104907986
+1167220,Joan García,Spain,6720,2001-05-04,keeper,8634,Barcelona,193,right,28742248
+1202110,Nico Williams,Spain,6720,2002-07-12,left winger,8315,Athletic Club,181,right,52078269
+1279040,Gavi,Spain,6720,2004-08-05,defensive midfielder,8634,Barcelona,173,right,35708659
+1323897,Marc Pubill,Spain,6720,2003-06-20,center back,9906,Atletico Madrid,190,right,24549110
+1467236,Lamine Yamal,Spain,6720,2007-07-13,right winger,8634,Barcelona,180,left,190852195
+1532137,Pau Cubarsí,Spain,6720,2007-01-22,center back,8634,Barcelona,184,right,120641838
+1553105,Víctor Muñoz,Spain,6720,2003-07-13,left winger,8650,Liverpool,173,right,
+288406,Alejandro Grimaldo,Spain,6720,1995-09-20,left wing-back,9906,Atletico Madrid,171,left,23578989
+411617,Aymeric Laporte,Spain,6720,1994-05-27,center back,8315,Athletic Club,191,left,5988108
+562727,David Raya,Spain,6720,1995-09-15,keeper,9825,Arsenal,183,right,27458190
+574645,Mikel Merino,Spain,6720,1996-06-22,central midfielder,9825,Arsenal,187,left,30085413
+602563,Marcos Llorente,Spain,6720,1995-01-30,right back,9906,Atletico Madrid,180,right,16617444
+605654,Fabián Ruiz,Spain,6720,1996-04-03,central midfielder,9847,Paris Saint-Germain,189,left,29969569
+609505,Borja Iglesias,Spain,6720,1993-01-17,striker,9910,Celta Vigo,187,right,2093775
+614834,Dani Olmo,Spain,6720,1998-05-07,attacking midfielder,8634,Barcelona,180,right,50114723
+660625,Unai Simón,Spain,6720,1997-06-11,keeper,8315,Athletic Club,190,right,22984799
+675088,Rodri,Spain,6720,1996-06-22,defensive midfielder,8456,Manchester City,190,right,65807631
+678234,Mikel Oyarzabal,Spain,6720,1997-04-21,striker,8560,Real Sociedad,180,left,30985239
+873289,Marc Cucurella,Spain,6720,1998-07-22,left back,8633,Real Madrid,177,left,41324940
+881771,Ferran Torres,Spain,6720,2000-02-29,striker,8634,Barcelona,184,right,42240372
+940573,Eric García,Spain,6720,2001-01-09,center back,8634,Barcelona,182,right,28525686
+941573,Pedro Porro,Spain,6720,1999-09-13,right back,8586,Tottenham Hotspur,176,right,44960034
+942372,Álex Baena,Spain,6720,2001-07-20,left winger,9906,Atletico Madrid,174,right,40994685
+1016132,Manu Koné,France,6723,2001-05-17,defensive midfielder,8686,Roma,185,right,49518614
+1029063,Michael Olise,France,6723,2001-12-12,right winger,9823,Bayern München,184,left,172246935
+1104053,Rayan Cherki,France,6723,2003-08-17,attacking midfielder,8456,Manchester City,177,both,63593257
+1197250,Malo Gusto,France,6723,2003-05-19,right back,8455,Chelsea,179,right,41326134
+1297165,Bradley Barcola,France,6723,2002-09-02,left winger,9847,Paris Saint-Germain,182,right,63596615
+1305618,Maghnes Akliouche,France,6723,2002-02-25,right winger,9829,Monaco,183,left,48968741
+1339208,Désiré Doué,France,6723,2005-06-03,right winger,9847,Paris Saint-Germain,178,right,89748088
+1367615,Warren Zaïre-Emery,France,6723,2006-03-08,central midfielder,9847,Paris Saint-Germain,178,right,79294458
+1390336,Robin Risser,France,6723,2004-12-02,keeper,8588,Lens,193,right,13743525
+210111,Lucas Digne,France,6723,1993-07-20,left back,10252,Aston Villa,178,left,8439289
+279714,Brice Samba,France,6723,1994-04-25,keeper,9851,Rennes,186,left,6211237
+319300,N'Golo Kanté,France,6723,1991-03-29,defensive midfielder,8695,Fenerbahçe,168,right,1863806
+352879,Adrien Rabiot,France,6723,1995-04-03,central midfielder,8564,Milan,191,left,17597109
+466439,Mike Maignan,France,6723,1995-07-03,keeper,8564,Milan,191,right,19999181
+504606,Lucas Hernández,France,6723,1996-02-14,left back,9847,Paris Saint-Germain,183,left,18612889
+621562,Marcus Thuram,France,6723,1997-08-06,striker,8636,Inter,188,right,48802217
+658554,Dayot Upamecano,France,6723,1998-10-27,center back,9823,Bayern München,185,right,42810112
+692984,Ousmane Dembélé,France,6723,1997-05-15,striker,9847,Paris Saint-Germain,178,both,86227764
+701154,Kylian Mbappé,France,6723,1998-12-20,striker,8633,Real Madrid,178,right,109605102
+705450,Jules Koundé,France,6723,1998-11-12,right back,8634,Barcelona,180,right,57479286
+706297,Jean-Philippe Mateta,France,6723,1997-06-28,striker,9826,Crystal Palace,192,right,36030457
+724371,Theo Hernández,France,6723,1997-10-06,left back,2529,Al Hilal,184,left,25549077
+820140,Ibrahima Konaté,France,6723,1999-05-25,center back,8633,Real Madrid,192,right,31513513
+914458,Aurélien Tchouaméni,France,6723,2000-01-27,central midfielder,8633,Real Madrid,185,right,63143476
+950485,Maxence Lacroix,France,6723,2000-04-06,center back,9826,Crystal Palace,190,right,46435084
+955406,William Saliba,France,6723,2001-03-24,center back,9825,Arsenal,193,right,101311247
+1033279,Isidro Pitta,Paraguay,6724,1999-08-14,striker,109705,Red Bull Bragantino,183,right,9058366
+1059490,Mauricio,Paraguay,6724,2001-06-22,attacking midfielder,10283,Palmeiras,175,left,13985222
+1073742,Julio Enciso,Paraguay,6724,2004-01-23,attacking midfielder,9848,Strasbourg,173,right,22946236
+1075065,Braian Ojeda,Paraguay,6724,2000-06-27,central midfielder,267810,Orlando City,173,right,1917837
+1132960,Ramón Sosa,Paraguay,6724,1999-08-31,left winger,10283,Palmeiras,178,right,10086771
+1133495,Juan Cáceres,Paraguay,6724,2000-06-01,right back,9763,Dinamo Moscow,173,right,3071212
+1241957,Matías Galarza,Paraguay,6724,2002-02-11,central midfielder,10076,River Plate,175,left,2011590
+1252913,Damián Bobadilla,Paraguay,6724,2001-07-11,defensive midfielder,10277,Sao Paulo,181,right,4970331
+1320444,Álex Arce,Paraguay,6724,1995-06-16,striker,161729,Independiente Rivadavia,188,right,1803136
+1347933,Gustavo Caballero,Paraguay,6724,2001-09-21,right winger,8514,Santos FC,186,right,1178336
+1354561,Diego Gómez,Paraguay,6724,2003-03-27,attacking midfielder,10204,Brighton & Hove Albion,183,right,4064256
+1683391,Orlando Gill,Paraguay,6724,2000-06-11,keeper,10083,San Lorenzo,198,left,4320700
+1736527,Alexandro Maidana,Paraguay,6724,2005-07-26,left back,10101,Talleres,173,left,1869906
+274392,Gustavo Gómez,Paraguay,6724,1993-05-06,center back,10283,Palmeiras,185,right,2231452
+307438,Fabián Balbuena,Paraguay,6724,1991-08-23,center back,9769,Gremio,188,right,723712
+425711,Gabriel Ávalos,Paraguay,6724,1991-07-09,striker,10078,Independiente,191,right,643789
+442277,Miguel Almirón,Paraguay,6724,1994-02-10,left winger,773958,Atlanta United,174,left,16272300
+466214,Júnior Alonso,Paraguay,6724,1993-02-09,center back,773958,Atlanta United,185,left,1315068
+474448,Antonio Sanabria,Paraguay,6724,1996-03-04,striker,7801,Cremonese,180,right,2158954
+495193,Gastón Olveira,Paraguay,6724,1993-04-21,keeper,6619,Olimpia,191,right,359251
+497352,Gustavo Velázquez,Paraguay,6724,1991-04-17,center back,6295,Cerro Porteno,189,right,402114
+529625,Andrés Cubas,Paraguay,6724,1996-05-11,defensive midfielder,307691,Vancouver Whitecaps,168,right,1750670
+600850,Alejandro Romero,Paraguay,6724,1995-01-11,central midfielder,102117,Al-Ain,171,left,1902345
+68422,Roberto Fernández,Paraguay,6724,1988-03-29,keeper,6295,Cerro Porteno,191,right,207465
+751998,Omar Alderete,Paraguay,6724,1996-12-26,center back,8472,Sunderland,188,left,16195648
+860890,José Canale,Paraguay,6724,1996-07-20,center back,10082,Lanus,187,left,1269944
+1002617,Saud Abdulhamid,Saudi Arabia,7795,1999-07-18,right wing-back,8588,Lens,171,right,3330949
+1024928,Khalid Al Ghannam,Saudi Arabia,7795,2000-11-07,left winger,101915,Al-Ettifaq,171,right,561690
+1095207,Ayman Yahya,Saudi Arabia,7795,2001-05-14,left back,101918,Al Nassr FC,164,both,
+1125083,Nawaf Alaqidi,Saudi Arabia,7795,2000-05-10,keeper,101918,Al Nassr FC,186,right,443577
+1138003,Moteb Al-Harbi,Saudi Arabia,7795,2000-02-19,right back,2529,Al Hilal,173,left,717294
+1174962,Ziyad Aljohani,Saudi Arabia,7795,2001-11-11,defensive midfielder,2530,Al Ahli,180,left,698725
+1232530,Jehad Thakri,Saudi Arabia,7795,2001-07-21,center back,101919,Al Qadsiah,183,right,
+1235341,Musab Al-Juwayr,Saudi Arabia,7795,2003-06-20,central midfielder,101919,Al Qadsiah,178,right,3884541
+1401228,Nawaf Al-Boushail,Saudi Arabia,7795,1999-09-16,right back,101918,Al Nassr FC,178,right,899338
+1543647,Mohammed Abu Al Shamat,Saudi Arabia,7795,2002-08-11,right back,101919,Al Qadsiah,170,right,1244364
+307753,Salem Al-Dawsari,Saudi Arabia,7795,1991-08-19,left winger,2529,Al Hilal,172,right,770894
+384407,Saleh Al-Shehri,Saudi Arabia,7795,1993-11-01,striker,8577,Al Ittihad,184,right,290727
+431215,Hasan Kadesh,Saudi Arabia,7795,1992-08-01,center back,8577,Al Ittihad,179,left,262155
+535669,Mohammed Al Owais,Saudi Arabia,7795,1991-10-10,keeper,1793879,Al-Ula FC,185,left,169586
+544589,Ahmed Ali Al Kassar,Saudi Arabia,7795,1991-05-08,keeper,101919,Al Qadsiah,178,right,151827
+619824,Sultan Mandash,Saudi Arabia,7795,1994-10-17,right winger,2529,Al Hilal,172,left,203231
+640284,Ali Lajami,Saudi Arabia,7795,1996-04-24,center back,2529,Al Hilal,178,right,460813
+697618,Alaa Hajji,Saudi Arabia,7795,1995-12-03,central midfielder,1699505,Neom SC,173,right,
+823457,Abdullah Alkhaibari,Saudi Arabia,7795,1996-08-16,central midfielder,101918,Al Nassr FC,175,right,460813
+844226,Firas Al-Buraikan,Saudi Arabia,7795,2000-05-14,striker,2530,Al Ahli,181,left,3031811
+848600,Abdulelah Al Amri,Saudi Arabia,7795,1997-01-15,center back,101918,Al Nassr FC,185,right,647893
+848607,Hassan Al Tambakti,Saudi Arabia,7795,1999-02-09,center back,2529,Al Hilal,182,right,1040686
+848612,Nasser Al-Dawsari,Saudi Arabia,7795,1998-12-19,central midfielder,2529,Al Hilal,178,left,479742
+866373,Mohamed Kanno,Saudi Arabia,7795,1994-09-22,central midfielder,2529,Al Hilal,192,right,596127
+909198,Abdullah Al-Hamdan,Saudi Arabia,7795,1999-09-12,striker,101918,Al Nassr FC,179,right,196728
+910986,Ali Majrashi,Saudi Arabia,7795,1999-10-01,right back,2530,Al Ahli,169,right,753670
+1026781,Gue-Sung Cho,South Korea,7804,1998-01-25,striker,8113,FC Midtjylland,188,right,1984902
+1044299,Hyeon-Gyu Oh,South Korea,7804,2001-04-12,striker,10188,Beşiktaş,183,right,12139868
+1053477,Tae-Hyeon Kim,South Korea,7804,2000-09-17,center back,4397,Kashima Antlers,186,left,
+1107251,Tae-Seok Lee,South Korea,7804,2002-07-28,left wing-back,10011,Austria Wien,174,left,1314315
+1107283,Ji-Sung Eom,South Korea,7804,2002-05-09,left winger,10003,Swansea City,174,right,1529303
+1132818,Seol Young-Woo,South Korea,7804,1998-12-05,right back,8687,FK Crvena Zvezda,183,right,2998537
+1185902,Jens Castrop,South Korea,7804,2003-07-29,left wing-back,9788,Borussia Mönchengladbach,177,right,6885816
+1232253,Han-Beom Lee,South Korea,7804,2002-06-17,center back,8113,FC Midtjylland,188,right,1582623
+1232264,Lee Gi-Hyuk,South Korea,7804,2000-07-07,center back,164734,Gangwon FC,184,left,630113
+1232560,Hyun-Jun Yang,South Korea,7804,2002-05-25,right winger,9925,Celtic,179,right,3785147
+1326507,Cho Wi-Je,South Korea,7804,2001-08-25,center back,46038,Jeonbuk Hyundai Motors FC,189,right,268852
+1386482,Jun-Ho Bae,South Korea,7804,2003-08-21,attacking midfielder,10194,Stoke City,180,right,
+167247,Seung-Gyu Kim,South Korea,7804,1990-09-30,keeper,4399,FC Tokyo,187,right,342457
+212867,Heung-Min Son,South Korea,7804,1992-07-08,striker,867280,Los Angeles FC,184,both,9330272
+433265,Jo Hyeon-Woo,South Korea,7804,1991-09-25,keeper,133896,Ulsan HD FC,189,right,349341
+523749,Jae-Sung Lee,South Korea,7804,1992-08-10,central midfielder,9905,Mainz 05,180,left,1537636
+620026,Hwang Hee-Chan,South Korea,7804,1996-01-26,striker,8602,Wolverhampton Wanderers,177,right,8258425
+622980,Kim Jin-Gyu,South Korea,7804,1997-02-24,attacking midfielder,46038,Jeonbuk Hyundai Motors FC,177,right,628845
+623698,In-Beom Hwang,South Korea,7804,1996-09-20,defensive midfielder,10235,Feyenoord,177,both,5708251
+828159,Min-Jae Kim,South Korea,7804,1996-11-15,center back,9823,Bayern München,188,right,25460462
+828273,Kim Moon-Hwan,South Korea,7804,1995-08-01,right back,133900,Daejeon Hana Citizen,173,right,562840
+848068,Song Bum-Keun,South Korea,7804,1997-10-15,keeper,46038,Jeonbuk Hyundai Motors FC,196,right,820783
+848102,Seung-Ho Paik,South Korea,7804,1997-03-17,defensive midfielder,8658,Birmingham City,180,right,1434769
+925647,Jin-Seob Park,South Korea,7804,1995-10-23,defensive midfielder,51443,Zhejiang Professional,184,right,677754
+940976,Kang-In Lee,South Korea,7804,2001-02-19,central midfielder,9847,Paris Saint-Germain,173,left,27653364
+954131,Lee Dong-Gyeong,South Korea,7804,1997-09-20,striker,133896,Ulsan HD FC,175,left,1025041
+1024672,Nicolas Seiwald,Austria,8255,2001-05-04,central midfielder,178475,RB Leipzig,179,right,20636087
+1027194,Alexander Prass,Austria,8255,2001-05-26,left midfielder,8226,Hoffenheim,180,left,6758288
+1073498,Patrick Wimmer,Austria,8255,2001-05-30,left winger,8226,Hoffenheim,182,right,13345491
+1073980,David Affengruber,Austria,8255,2001-03-19,center back,10268,Elche,185,right,9178066
+1089685,Carney Chukwuemeka,Austria,8255,2003-10-20,attacking midfielder,9789,Borussia Dortmund,188,right,21521274
+110148,Marko Arnautovic,Austria,8255,1989-04-19,striker,8687,FK Crvena Zvezda,192,both,1375048
+121633,David Alaba,Austria,8255,1992-06-24,center back,,,180,left,1720863
+1327149,Paul Wanner,Austria,8255,2005-12-23,defensive midfielder,8640,PSV Eindhoven,185,left,20232219
+1514693,Florian Wiegele,Austria,8255,2001-03-21,keeper,6033,Viktoria Plzen,205,left,940315
+198316,Michael Gregoritsch,Austria,8255,1994-04-18,striker,8406,Augsburg,190,left,1149688
+215151,Marcel Sabitzer,Austria,8255,1994-03-17,defensive midfielder,9789,Borussia Dortmund,177,right,3976329
+423812,Phillipp Mwene,Austria,8255,1994-01-29,left midfielder,9905,Mainz 05,168,right,1141898
+450739,Alexander Schlager,Austria,8255,1996-02-01,keeper,8697,Werder Bremen,184,right,1310644
+461357,Alessandro Schöpf,Austria,8255,1994-02-07,defensive midfielder,1954,Wolfsberger AC,178,right,397989
+526827,Konrad Laimer,Austria,8255,1997-05-27,right back,9823,Bayern München,180,right,30257135
+557325,Stefan Posch,Austria,8255,1997-05-14,center back,10171,Como,190,right,4399087
+617044,Florian Grillitsch,Austria,8255,1995-08-07,central midfielder,,,187,right,1149729
+620027,Xaver Schlager,Austria,8255,1997-09-28,central midfielder,,,174,left,6336970
+630672,Patrick Pentz,Austria,8255,1997-01-02,keeper,8595,Brøndby IF,182,left,1511255
+643724,Philipp Lienhart,Austria,8255,1996-07-11,center back,8358,Freiburg,185,right,6751119
+749488,Romano Schmid,Austria,8255,2000-01-27,attacking midfielder,8697,Werder Bremen,167,right,13886124
+754126,Kevin Danso,Austria,8255,1998-09-19,center back,8586,Tottenham Hotspur,190,right,21465546
+767789,Marco Friedl,Austria,8255,1998-03-16,center back,8697,Werder Bremen,187,left,13330440
+858198,Sasa Kalajdzic,Austria,8255,1997-07-07,striker,8602,Wolverhampton Wanderers,200,right,1338452
+861668,Dejan Ljubicic,Austria,8255,1997-10-08,right winger,10189,Schalke 04,186,right,1387529
+951921,Michael Svoboda,Austria,8255,1998-10-15,center back,10204,Brighton & Hove Albion,195,right,2033745
+1021586,Gabriel Martinelli,Brazil,8256,2001-06-18,left winger,9825,Arsenal,180,right,44698697
+1176214,Luiz Henrique,Brazil,8256,2001-01-02,right winger,8698,Zenit St. Petersburg,182,left,20402350
+1181700,Danilo Santos,Brazil,8256,2001-04-29,defensive midfielder,8517,Botafogo RJ,177,left,22223992
+1302005,Igor Thiago,Brazil,8256,2001-06-26,striker,9937,Brentford,191,right,34801160
+1406729,Endrick,Brazil,8256,2006-07-21,right winger,9748,Lyon,173,left,35183582
+1478295,Rayan,Brazil,8256,2006-08-03,right winger,8678,AFC Bournemouth,186,left,47583920
+157865,Alex Sandro,Brazil,8256,1991-01-26,left back,9770,Flamengo,180,left,1031588
+19533,Neymar,Brazil,8256,1992-02-05,striker,8514,Santos FC,175,right,4532682
+208077,Danilo,Brazil,8256,1991-07-15,center back,9770,Flamengo,184,right,1638111
+208494,Casemiro,Brazil,8256,1992-02-23,defensive midfielder,,,185,right,5739627
+267365,Marquinhos,Brazil,8256,1994-05-14,center back,9847,Paris Saint-Germain,183,right,25493870
+267826,Weverton,Brazil,8256,1987-12-13,keeper,9769,Gremio,189,right,716738
+319784,Alisson Becker,Brazil,8256,1992-10-02,keeper,8650,Liverpool,193,right,14795536
+346000,Douglas Santos,Brazil,8256,1994-03-22,left back,8698,Zenit St. Petersburg,176,left,4654562
+359188,Fabinho,Brazil,8256,1993-10-23,defensive midfielder,8577,Al Ittihad,188,right,10007582
+363364,Ederson,Brazil,8256,1993-08-17,keeper,8695,Fenerbahçe,188,left,12312620
+523801,Léo Pereira,Brazil,8256,1996-01-31,center back,9770,Flamengo,189,left,7126372
+696679,Raphinha,Brazil,8256,1996-12-14,left winger,8634,Barcelona,176,left,62633290
+766435,Lucas Paquetá,Brazil,8256,1997-08-27,attacking midfielder,9770,Flamengo,183,left,45154263
+795179,Gabriel,Brazil,8256,1997-12-19,center back,9825,Arsenal,190,left,79588929
+846033,Vinícius Júnior,Brazil,8256,2000-07-12,left winger,8633,Real Madrid,177,right,106930227
+850354,Bruno Guimarães,Brazil,8256,1997-11-16,central midfielder,10261,Newcastle United,182,right,63058113
+857269,Gleison Bremer,Brazil,8256,1997-03-18,center back,9885,Juventus,188,right,39308957
+862538,Roger Ibañez,Brazil,8256,1998-11-23,center back,2530,Al Ahli,185,right,11084415
+863098,Matheus Cunha,Brazil,8256,1999-05-27,striker,10260,Manchester United,184,right,64880341
+957203,Éderson,Brazil,8256,1999-07-07,defensive midfielder,8524,Atalanta,183,right,33242669
+1023030,Jhon Arias,Colombia,8258,1997-09-21,left winger,10283,Palmeiras,168,right,14325942
+1174630,Richard Ríos,Colombia,8258,2000-06-02,defensive midfielder,9772,Benfica,180,right,20252860
+1281230,Juan Portilla,Colombia,8258,1998-09-12,defensive midfielder,10273,Athletico Paranaense,183,right,3402057
+1331597,Gustavo Puerta,Colombia,8258,2003-07-23,defensive midfielder,8696,Racing Santander,173,right,4999343
+1353421,Andrés Gómez,Colombia,8258,2002-09-12,left winger,10276,Vasco da Gama,171,right,
+1434853,Kevin Castaño,Colombia,8258,2000-09-29,defensive midfielder,10076,River Plate,177,right,5943696
+164684,James Rodríguez,Colombia,8258,1991-07-12,attacking midfielder,207242,Minnesota United,180,left,970354
+207617,Juan Fernando Quintero,Colombia,8258,1993-01-18,attacking midfielder,10076,River Plate,167,left,943092
+207642,Santiago Arias,Colombia,8258,1992-01-13,right back,10078,Independiente,177,right,865614
+291425,Jhon Córdoba,Colombia,8258,1993-05-11,striker,168719,FC Krasnodar,188,right,7696628
+466672,Jefferson Lerma,Colombia,8258,1994-10-25,defensive midfielder,9826,Crystal Palace,179,right,5400278
+474673,Johan Mojica,Colombia,8258,1992-08-21,left back,8661,Mallorca,185,left,1201717
+496042,Yerry Mina,Colombia,8258,1994-09-23,center back,8529,Cagliari,195,right,2401585
+498457,Álvaro Montero,Colombia,8258,1995-03-29,keeper,10079,Velez Sarsfield,201,right,1793408
+50065,David Ospina,Colombia,8258,1988-08-31,keeper,6368,Atletico Nacional,183,right,380535
+50207,Camilo Vargas,Colombia,8258,1989-03-09,keeper,6577,Atlas,183,left,470983
+578756,Deiver Machado,Colombia,8258,1993-09-02,left back,9830,Nantes,172,left,1258001
+643533,Davinson Sánchez,Colombia,8258,1996-06-12,center back,8637,Galatasaray,187,right,15178456
+784834,Jorge Carrascal,Colombia,8258,1998-05-25,right winger,9770,Flamengo,180,right,7219285
+792303,Luis Suárez,Colombia,8258,1997-12-02,striker,9768,Sporting CP,185,right,24801653
+837870,Jaminton Campaz,Colombia,8258,2000-05-24,left winger,10084,Rosario Central,166,left,3288425
+852071,Juan Hernández,Colombia,8258,1999-04-20,striker,8603,Real Betis,176,right,17530344
+859282,Daniel Muñoz,Colombia,8258,1996-05-26,right wing-back,9826,Crystal Palace,183,right,27016263
+860913,Jhon Lucumí,Colombia,8258,1998-06-26,center back,9857,Bologna,185,left,17493961
+860914,Luis Díaz,Colombia,8258,1997-01-13,left winger,9823,Bayern München,180,right,80292049
+965205,Willer Ditta,Colombia,8258,1998-01-23,center back,6578,Cruz Azul,180,right,4992752
+1095432,Charles De Ketelaere,Belgium,8263,2001-03-10,attacking midfielder,8524,Atalanta,192,left,39619004
+1134871,Maxim De Cuyper,Belgium,8263,2000-12-22,left back,10204,Brighton & Hove Albion,183,left,22466254
+1173250,Arthur Theate,Belgium,8263,2000-05-25,center back,9810,Eintracht Frankfurt,186,left,20472907
+1178602,Senne Lammens,Belgium,8263,2002-07-07,keeper,10260,Manchester United,193,right,19304486
+1185748,Amadou Onana,Belgium,8263,2001-08-16,defensive midfielder,10252,Aston Villa,195,right,46621019
+1200630,Koni De Winter,Belgium,8263,2002-06-12,center back,8564,Milan,188,right,25769138
+1232172,Zeno Debast,Belgium,8263,2003-10-24,center back,9768,Sporting CP,189,right,31999170
+1252070,Nathan Ngoy,Belgium,8263,2003-06-10,center back,8639,Lille,183,right,13210184
+1319972,Mike Penders,Belgium,8263,2005-07-31,keeper,8455,Chelsea,200,left,22643511
+1342754,Diego Moreira,Belgium,8263,2004-08-06,right winger,9848,Strasbourg,179,left,19101596
+1444231,Matias Fernandez-Pardo,Belgium,8263,2005-02-03,striker,8639,Lille,183,right,29026407
+1489449,Joaquin Seys,Belgium,8263,2005-03-28,left back,8342,Club Brugge,178,left,18308980
+169200,Kevin De Bruyne,Belgium,8263,1991-06-28,attacking midfielder,9875,Napoli,181,right,10181555
+170323,Thibaut Courtois,Belgium,8263,1992-05-11,keeper,8633,Real Madrid,199,left,10342349
+181276,Romelu Lukaku,Belgium,8263,1993-05-13,striker,9875,Napoli,190,left,9745195
+203666,Hans Vanaken,Belgium,8263,1992-08-24,attacking midfielder,8342,Club Brugge,194,right,3751252
+277771,Thomas Meunier,Belgium,8263,1991-09-12,right back,8472,Sunderland,190,right,1289065
+318615,Leandro Trossard,Belgium,8263,1994-12-04,left winger,10188,Beşiktaş,172,right,15301964
+39591,Axel Witsel,Belgium,8263,1989-01-12,defensive midfielder,,,186,right,1154326
+445873,Brandon Mechele,Belgium,8263,1993-01-28,center back,8342,Club Brugge,188,right,1793816
+465750,Timothy Castagne,Belgium,8263,1995-12-05,right back,9879,Fulham,185,right,10373883
+465960,Youri Tielemans,Belgium,8263,1997-05-07,defensive midfielder,10260,Manchester United,177,right,35191527
+688876,Dodi Lukébakio,Belgium,8263,1997-09-24,right winger,9772,Benfica,187,left,19609213
+863869,Nicolas Raskin,Belgium,8263,2001-02-23,defensive midfielder,8548,Rangers,179,right,11423960
+921341,Alexis Saelemaekers,Belgium,8263,1999-06-27,right midfielder,8564,Milan,180,right,20603179
+942368,Jérémy Doku,Belgium,8263,2002-05-27,left winger,8456,Manchester City,171,right,70255873
+1061249,Vitinha,Portugal,8361,2000-02-13,central midfielder,9847,Paris Saint-Germain,172,right,123562651
+1130583,Samú,Portugal,8361,2000-11-27,defensive midfielder,8661,Mallorca,183,left,15025138
+1158945,Nuno Mendes,Portugal,8361,2002-06-19,left back,9847,Paris Saint-Germain,184,left,66705460
+1165710,Gonçalo Inácio,Portugal,8361,2001-08-25,center back,9768,Sporting CP,186,left,37322115
+1185336,Francisco Conceição,Portugal,8361,2002-12-14,right winger,9885,Juventus,170,left,30420899
+1187283,Tomás Araújo,Portugal,8361,2002-05-16,center back,9772,Benfica,187,right,29910620
+1342757,João Neves,Portugal,8361,2004-09-27,central midfielder,9847,Paris Saint-Germain,174,right,91477024
+1343750,Renato Veiga,Portugal,8361,2003-07-29,center back,10205,Villarreal,190,left,24652953
+30893,Cristiano Ronaldo,Portugal,8361,1985-02-05,striker,101918,Al Nassr FC,187,right,9386067
+361717,Rui Silva,Portugal,8361,1994-02-07,keeper,9768,Sporting CP,189,left,
+361757,João Cancelo,Portugal,8361,1994-05-27,left back,2529,Al Hilal,182,right,6808384
+416175,José Sá,Portugal,8361,1993-01-17,keeper,8602,Wolverhampton Wanderers,192,right,4818433
+422685,Bruno Fernandes,Portugal,8361,1994-09-08,attacking midfielder,10260,Manchester United,179,right,37282215
+470834,Nélson Semedo,Portugal,8361,1993-11-16,right back,8695,Fenerbahçe,180,right,3310209
+488139,Bernardo Silva,Portugal,8361,1994-08-10,attacking midfielder,8633,Real Madrid,173,left,21625552
+534684,Rúben Neves,Portugal,8361,1997-03-13,defensive midfielder,2529,Al Hilal,180,right,16851839
+536455,Gonçalo Guedes,Portugal,8361,1996-11-29,left winger,8560,Real Sociedad,179,right,5253030
+614006,Rúben Dias,Portugal,8361,1997-05-14,center back,8456,Manchester City,187,right,46711978
+732282,Trincão,Portugal,8361,1999-12-29,attacking midfielder,2530,Al Ahli,183,left,36075508
+751550,Diogo Dalot,Portugal,8361,1999-03-18,right back,10260,Manchester United,183,right,33853397
+794427,Joao Félix,Portugal,8361,1999-11-10,attacking midfielder,101918,Al Nassr FC,181,right,16726642
+795630,Diogo Costa,Portugal,8361,1999-09-19,keeper,9773,FC Porto,186,right,37125407
+843040,Pedro Neto,Portugal,8361,2000-03-09,right winger,8455,Chelsea,172,left,57446657
+848844,Rafael Leão,Portugal,8361,1999-06-10,striker,8564,Milan,188,right,59850181
+940087,Gonçalo Ramos,Portugal,8361,2001-06-20,striker,8564,Milan,185,right,35358103
+955529,Matheus Nunes,Portugal,8361,1998-08-27,right back,8456,Manchester City,183,right,47244538
+1077894,Jude Bellingham,England,8491,2003-06-29,attacking midfielder,8633,Real Madrid,186,right,134530005
+1084981,Noni Madueke,England,8491,2002-03-10,right winger,9825,Arsenal,182,left,61396675
+1089691,Elliot Anderson,England,8491,2002-11-06,defensive midfielder,8456,Manchester City,179,right,57084237
+1107620,Jarell Quansah,England,8491,2003-01-29,center back,8178,Bayer Leverkusen,190,right,42211937
+1187213,James Trafford,England,8491,2002-10-10,keeper,8456,Manchester City,197,right,29469247
+1292810,Kobbie Mainoo,England,8491,2005-04-19,defensive midfielder,10260,Manchester United,184,right,65300865
+1300526,Nico O'Reilly,England,8491,2005-03-21,left back,8456,Manchester City,193,left,51728410
+156008,Jordan Henderson,England,8491,1990-06-17,defensive midfielder,9937,Brentford,182,right,2003046
+188058,Daniel Burn,England,8491,1992-05-09,center back,10261,Newcastle United,201,left,6107550
+194165,Harry Kane,England,8491,1993-07-28,striker,9823,Bayern München,188,right,96019445
+263653,John Stones,England,8491,1994-05-28,center back,,,188,right,11804553
+303919,Jordan Pickford,England,8491,1994-03-07,keeper,8668,Everton,185,left,17788492
+408987,Ivan Toney,England,8491,1996-03-16,striker,2530,Al Ahli,185,right,16440776
+540088,Ollie Watkins,England,8491,1995-12-30,striker,10252,Aston Villa,180,right,44382434
+654096,Declan Rice,England,8491,1999-01-14,defensive midfielder,9825,Arsenal,185,right,114854202
+696365,Marcus Rashford,England,8491,1997-10-31,left winger,10260,Manchester United,185,right,34737853
+710159,Ezri Konsa,England,8491,1997-10-23,center back,10252,Aston Villa,183,right,39690016
+719330,Dean Henderson,England,8491,1997-03-12,keeper,9826,Crystal Palace,188,right,29883059
+793907,Trevoh Chalobah,England,8491,1999-07-05,center back,8455,Chelsea,190,right,46461311
+807729,Reece James,England,8491,1999-12-08,right back,8455,Chelsea,182,right,49414100
+818975,Eberechi Eze,England,8491,1998-06-29,attacking midfielder,9825,Arsenal,178,right,55042332
+844425,Marc Guéhi,England,8491,2000-07-13,center back,8456,Manchester City,182,right,63133452
+883080,Morgan Rogers,England,8491,2002-07-26,attacking midfielder,10252,Aston Villa,187,right,65148225
+894803,Djed Spence,England,8491,2000-08-09,left back,8586,Tottenham Hotspur,184,right,34527553
+906937,Anthony Gordon,England,8491,2001-02-24,left winger,8634,Barcelona,182,right,56486076
+961995,Bukayo Saka,England,8491,2001-09-05,right winger,9825,Arsenal,178,left,104728142
+1049679,David Møller Wolfe,Norway,8492,2002-04-23,left back,8602,Wolverhampton Wanderers,185,left,11028398
+1110550,Henrik Falchener,Norway,8492,2003-05-08,center back,8478,Viking,194,right,3367589
+1113790,Oscar Bobb,Norway,8492,2003-07-12,right winger,9879,Fulham,174,left,33223348
+1127585,Sondre Klingen Langås,Norway,8492,2001-02-02,center back,10170,Derby County,190,right,2130937
+1145714,Sander Tangvik,Norway,8492,2002-11-29,keeper,9790,Hamburger SV,193,right,3591816
+1184468,Thelo Aasgaard,Norway,8492,2002-05-02,attacking midfielder,8548,Rangers,188,right,1851083
+1228558,Andreas Schjelderup,Norway,8492,2004-06-01,left winger,9772,Benfica,176,right,19753515
+1248482,Antonio Nusa,Norway,8492,2005-04-17,left winger,178475,RB Leipzig,180,right,39916935
+310768,Fredrik Aursnes,Norway,8492,1995-12-10,defensive midfielder,9772,Benfica,179,right,14783214
+439148,Morten Thorsby,Norway,8492,1996-05-05,central midfielder,7801,Cremonese,186,right,1897346
+440330,Alexander Sørloth,Norway,8492,1995-12-05,striker,9906,Atletico Madrid,193,left,20140489
+530635,Patrick Berg,Norway,8492,1997-11-24,central midfielder,8402,Bodø/Glimt,178,right,4178409
+534670,Martin Ødegaard,Norway,8492,1998-12-17,central midfielder,9825,Arsenal,176,left,58819224
+540963,Sander Berge,Norway,8492,1998-02-14,defensive midfielder,9879,Fulham,193,right,24405026
+552718,Kristoffer Ajer,Norway,8492,1998-04-17,center back,9937,Brentford,196,right,20688191
+630228,Fredrik André Bjørkan,Norway,8492,1998-08-21,left back,8402,Bodø/Glimt,180,left,1975744
+631757,Egil Selvik,Norway,8492,1997-07-30,keeper,9817,Watford,192,left,972612
+659272,Julian Ryerson,Norway,8492,1997-11-17,right wing-back,9789,Borussia Dortmund,183,right,21712887
+73409,Ørjan Nyland,Norway,8492,1990-09-10,keeper,,,192,right,482586
+737066,Erling Haaland,Norway,8492,2000-07-21,striker,8456,Manchester City,194,left,154349200
+740944,Leo Østigard,Norway,8492,1999-11-28,center back,10233,Genoa,182,right,7530522
+741397,Jens Petter Hauge,Norway,8492,1999-10-12,left winger,8402,Bodø/Glimt,184,right,5045412
+821100,Jørgen Strand Larsen,Norway,8492,2000-02-06,striker,9826,Crystal Palace,193,right,44728605
+921921,Kristian Thorstvedt,Norway,8492,1999-03-13,central midfielder,7943,Sassuolo,189,left,9739194
+935550,Torbjørn Heggem,Norway,8492,1999-01-12,center back,9857,Bologna,192,left,13262921
+935622,Marcus Holmgren Pedersen,Norway,8492,2000-07-16,right midfielder,9804,Torino,183,right,2465031
+1037539,Pavel Sulc,Czechia,8496,2000-12-29,attacking midfielder,9748,Lyon,177,right,15141960
+1077903,Matej Kovár,Czechia,8496,2000-05-17,keeper,8640,PSV Eindhoven,196,right,5804452
+1085401,David Zima,Czechia,8496,2000-11-08,center back,7787,Slavia Prague,190,right,5890099
+1151313,Lukás Cerv,Czechia,8496,2001-04-10,defensive midfielder,6033,Viktoria Plzen,179,right,5505739
+1186978,Lukás Hornícek,Czechia,8496,2002-07-13,keeper,10264,Braga,197,right,13524966
+1202885,Denis Visinsky,Czechia,8496,2003-03-21,left winger,6033,Viktoria Plzen,177,right,2080594
+1225995,Robin Hranác,Czechia,8496,2000-01-29,center back,8226,Hoffenheim,190,right,2395845
+1247323,David Jurásek,Czechia,8496,2000-08-07,left wing-back,7787,Slavia Prague,183,left,2828424
+1288146,Stepán Chaloupek,Czechia,8496,2003-03-08,center back,7787,Slavia Prague,188,right,4898832
+1478281,Alexandr Sojka,Czechia,8496,2003-04-02,left midfielder,6033,Viktoria Plzen,188,left,894820
+1764021,Hugo Sochurek,Czechia,8496,2008-06-07,central midfielder,10247,Sparta Prague,184,right,
+196311,Vladimír Darida,Czechia,8496,1990-08-08,central midfielder,1712,Hradec Kralove,171,right,148645
+249063,Jaroslav Zeleny,Czechia,8496,1992-08-20,center back,10247,Sparta Prague,189,left,275200
+306168,Tomás Holes,Czechia,8496,1993-03-31,center back,7787,Slavia Prague,180,right,729595
+307317,Vladimír Coufal,Czechia,8496,1992-08-22,right back,8226,Hoffenheim,176,right,1676087
+463967,Jindrich Stanek,Czechia,8496,1996-04-27,keeper,7787,Slavia Prague,192,right,1314225
+523217,Tomás Chory,Czechia,8496,1995-01-26,striker,7787,Slavia Prague,198,right,1495266
+524437,Tomás Soucek,Czechia,8496,1995-02-27,defensive midfielder,8654,West Ham United,190,right,11929160
+540097,Patrik Schick,Czechia,8496,1996-01-24,striker,8178,Bayer Leverkusen,191,left,18242727
+690332,Jan Kuchta,Czechia,8496,1997-01-08,striker,10247,Sparta Prague,184,right,1446643
+791682,Lukás Provod,Czechia,8496,1996-10-23,attacking midfielder,7787,Slavia Prague,189,left,5614453
+798029,Ladislav Krejcí,Czechia,8496,1999-04-20,center back,8602,Wolverhampton Wanderers,191,left,21661775
+806551,Michal Sadílek,Czechia,8496,1999-05-31,defensive midfielder,7787,Slavia Prague,169,left,6387325
+883759,David Doudera,Czechia,8496,1998-05-31,right midfielder,7787,Slavia Prague,175,right,1928840
+969870,Adam Hlozek,Czechia,8496,2002-07-25,attacking midfielder,8226,Hoffenheim,185,right,14780992
+988769,Mojmír Chytil,Czechia,8496,1999-04-29,striker,7787,Slavia Prague,187,right,2199079
+1002039,Aaron Hickey,Scotland,8498,2002-06-10,right back,9937,Brentford,185,both,18073184
+1112684,Nathan Patterson,Scotland,8498,2001-10-16,right back,8668,Everton,189,right,11475272
+1324871,Ben Gannon-Doak,Scotland,8498,2005-11-11,right winger,8678,AFC Bournemouth,176,right,19372941
+1558461,Findlay Curtis,Scotland,8498,2006-10-01,left winger,8548,Rangers,180,right,1635185
+1676985,Tyler Fletcher,Scotland,8498,2007-03-19,defensive midfielder,1070257,Manchester United U21,183,right,
+190851,Kenny McLean,Scotland,8498,1992-01-08,defensive midfielder,9850,Norwich City,183,left,568860
+202180,Grant Hanley,Scotland,8498,1991-11-20,center back,10251,Hibernian,188,right,300067
+317544,Lawrence Shankland,Scotland,8498,1995-08-10,striker,8548,Rangers,185,right,1865149
+32562,Craig Gordon,Scotland,8498,1982-12-31,keeper,,,193,left,254417
+356406,John McGinn,Scotland,8498,1994-10-18,right winger,10252,Aston Villa,175,left,15834666
+357880,Andrew Robertson,Scotland,8498,1994-03-11,left back,8586,Tottenham Hotspur,178,left,9234620
+419207,John Souttar,Scotland,8498,1996-09-25,center back,8548,Rangers,186,right,1248604
+439369,Ryan Christie,Scotland,8498,1995-02-22,defensive midfielder,8678,AFC Bournemouth,178,left,7952248
+445522,Liam Kelly,Scotland,8498,1996-01-23,keeper,8548,Rangers,189,right,410713
+551805,Scott McKenna,Scotland,8498,1996-11-12,center back,10156,Dinamo Zagreb,189,left,1959356
+582499,Kieran Tierney,Scotland,8498,1997-06-05,left back,9925,Celtic,178,left,4702316
+599353,Ché Adams,Scotland,8498,1996-07-13,striker,9804,Torino,178,right,7627928
+640642,Jack Hendry,Scotland,8498,1995-05-07,center back,101915,Al-Ettifaq,192,right,1307644
+668422,Anthony Ralston,Scotland,8498,1998-11-16,right back,9925,Celtic,178,right,863595
+694558,Dominic Hyam,Scotland,8498,1995-12-20,center back,9841,Wrexham,188,right,1468502
+750033,George Hirst,Scotland,8498,1999-02-15,striker,9902,Ipswich Town,191,right,9098259
+760746,Angus Gunn,Scotland,8498,1996-01-22,keeper,6603,San Jose Earthquakes,196,right,1150042
+768635,Lyndon Dykes,Scotland,8498,1995-10-07,striker,8451,Charlton Athletic,188,right,830298
+776159,Ross Stewart,Scotland,8498,1996-07-11,striker,8466,Southampton,188,right,1610409
+843099,Scott McTominay,Scotland,8498,1996-12-08,defensive midfielder,9875,Napoli,193,right,40452350
+888921,Lewis Ferguson,Scotland,8498,1999-08-24,defensive midfielder,9857,Bologna,181,right,17239078
+1014602,Jacob Widell Zetterström,Sweden,8520,1998-07-11,keeper,10170,Derby County,195,right,1599659
+1014688,Alexander Bernhardsson,Sweden,8520,1998-09-08,right wing-back,8150,Holstein Kiel,185,left,1670037
+1050166,Anthony Elanga,Sweden,8520,2002-04-27,right winger,10261,Newcastle United,178,right,44793376
+1135782,Taha Abdi Ali,Sweden,8520,1998-07-01,right midfielder,8619,PAOK Thessaloniki,,right,625013
+1168311,Yasin Ayari,Sweden,8520,2003-10-06,defensive midfielder,10204,Brighton & Hove Albion,172,right,34465083
+118241,Gustaf Nilsson,Sweden,8520,1997-05-23,forward,8342,Club Brugge,197,right,1201986
+1209228,Daniel Svensson,Sweden,8520,2002-02-12,left wing-back,9789,Borussia Dortmund,183,left,24276306
+1272349,Elliot Stroud,Sweden,8520,2002-06-22,left midfielder,8127,Mjällby,,left,2088915
+1338361,Besfort Zeneli,Sweden,8520,2002-11-21,central midfielder,7978,Union St.Gilloise,187,right,3397364
+1386775,Lucas Bergvall,Sweden,8520,2006-02-02,central midfielder,8586,Tottenham Hotspur,186,right,51316098
+258269,Victor Nilsson Lindelöf,Sweden,8520,1994-07-17,center back,10252,Aston Villa,187,right,4653955
+322003,Jesper Karlström,Sweden,8520,1995-06-21,central midfielder,8600,Udinese,182,right,2657955
+497662,Carl Starfelt,Sweden,8520,1995-06-01,center back,9910,Celta Vigo,185,right,3193017
+520670,Ken Sema,Sweden,8520,1993-09-30,left wing-back,2137,Pafos FC,177,left,550618
+531327,Eric Smith,Sweden,8520,1997-01-08,center back,8152,St. Pauli,190,right,2986546
+546252,Viktor Johansson,Sweden,8520,1998-09-14,keeper,10194,Stoke City,186,right,11367053
+647900,Mattias Svanberg,Sweden,8520,1999-01-05,defensive midfielder,8721,Wolfsburg,178,right,8438655
+664500,Viktor Gyökeres,Sweden,8520,1998-06-04,striker,9825,Arsenal,187,right,60767466
+690107,Alexander Isak,Sweden,8520,1999-09-21,striker,8650,Liverpool,192,right,97224326
+73462,Kristoffer Nordfeldt,Sweden,8520,1989-06-23,keeper,8349,AIK,190,right,224888
+744494,Gabriel Gudmundsson,Sweden,8520,1999-04-29,left wing-back,8463,Leeds United,181,left,21097365
+831044,Hjalmar Ekdal,Sweden,8520,1998-10-21,center back,8191,Burnley,187,right,5805700
+919848,Gustaf Lagerbielke,Sweden,8520,2000-04-10,center back,10264,Braga,193,right,3551714
+931605,Benjamin Nygren,Sweden,8520,2001-07-08,attacking midfielder,9925,Celtic,184,left,7473925
+939780,Isak Hien,Sweden,8520,1999-01-13,center back,8524,Atalanta,191,right,24458283
+946703,Herman Johansson,Sweden,8520,1997-10-16,right midfielder,6399,FC Dallas,190,right,981595
+1002058,Nico Schlotterbeck,Germany,8570,1999-12-01,center back,9789,Borussia Dortmund,191,left,39025464
+1047667,Maximilian Beier,Germany,8570,2002-10-17,attacking midfielder,9789,Borussia Dortmund,183,right,38049243
+1071186,Angelo Stiller,Germany,8570,2001-04-04,defensive midfielder,10269,VfB Stuttgart,183,left,42579454
+1074968,Jamie Leweling,Germany,8570,2001-02-26,left winger,10269,VfB Stuttgart,184,both,27505800
+1106563,Nick Woltemade,Germany,8570,2002-02-14,striker,10261,Newcastle United,198,right,65049055
+1137407,Malick Thiaw,Germany,8570,2001-08-08,center back,10261,Newcastle United,194,right,35027275
+1152455,Florian Wirtz,Germany,8570,2003-05-03,left winger,8650,Liverpool,175,right,115559582
+1156141,Jamal Musiala,Germany,8570,2003-02-26,attacking midfielder,9823,Bayern München,180,right,126492581
+1395447,Nathaniel Brown,Germany,8570,2003-06-16,left back,9823,Bayern München,180,left,41595822
+1473580,Aleksandar Pavlovic,Germany,8570,2004-05-03,defensive midfielder,9823,Bayern München,188,both,56823883
+1486541,Assan Ouédraogo,Germany,8570,2006-05-09,central midfielder,178475,RB Leipzig,192,right,17876810
+167008,Pascal Groß,Germany,8570,1991-06-15,defensive midfielder,10204,Brighton & Hove Albion,181,right,2950740
+178778,Oliver Baumann,Germany,8570,1990-06-02,keeper,8226,Hoffenheim,186,right,2032966
+27299,Manuel Neuer,Germany,8570,1986-03-27,keeper,9823,Bayern München,193,right,2075973
+276738,Antonio Rüdiger,Germany,8570,1993-03-03,center back,8633,Real Madrid,190,right,6901193
+343748,Leon Goretzka,Germany,8570,1995-02-06,defensive midfielder,,,189,right,11719071
+460632,Joshua Kimmich,Germany,8570,1995-02-08,defensive midfielder,9823,Bayern München,176,right,38612263
+469700,Jonathan Tah,Germany,8570,1996-02-11,center back,9823,Bayern München,194,right,28135100
+530859,Leroy Sané,Germany,8570,1996-01-11,right winger,8637,Galatasaray,183,left,19604152
+554534,Alexander Nübel,Germany,8570,1996-09-30,keeper,10188,Beşiktaş,193,right,12990906
+614449,Nadiem Amiri,Germany,8570,1996-10-27,central midfielder,9905,Mainz 05,180,right,15393497
+661519,Deniz Undav,Germany,8570,1996-07-19,striker,10269,VfB Stuttgart,179,both,14722898
+664970,Waldemar Anton,Germany,8570,1996-07-20,center back,9789,Borussia Dortmund,189,right,17453939
+749736,Kai Havertz,Germany,8570,1999-06-11,striker,9825,Arsenal,193,left,54639880
+806669,David Raum,Germany,8570,1998-04-22,left back,178475,RB Leipzig,180,left,15404736
+966019,Felix Nmecha,Germany,8570,2000-10-10,defensive midfielder,9789,Borussia Dortmund,190,right,50331584
+1029597,Avazbek Ulasmaliev,Uzbekistan,8700,2000-03-27,defender,115128,AGMK,187,right,
+1057486,Oston Urunov,Uzbekistan,8700,2000-12-19,attacking midfielder,101610,Persepolis,181,right,1198196
+1249993,Abbosbek Fayzullayev,Uzbekistan,8700,2003-10-03,right winger,1933,Başakşehir,167,right,7896872
+1258316,Sherzod Nasrulloev,Uzbekistan,8700,1998-07-23,left wing-back,102153,Nasaf Qarshi,181,left,511316
+1259187,Abduvohid Nematov,Uzbekistan,8700,2001-03-20,keeper,102153,Nasaf Qarshi,182,right,835722
+1294120,Abdulla Abdullaev,Uzbekistan,8700,1997-09-01,central midfielder,391664,Dibba Al Fujairah,181,right,
+1362998,Abdukodir Khusanov,Uzbekistan,8700,2004-02-29,center back,8456,Manchester City,186,right,42319567
+1421621,Ruslanbek Jiyanov,Uzbekistan,8700,2001-06-05,forward,102155,Navbahor Namangan,168,right,333151
+1477513,Jakhongir Urozov,Uzbekistan,8700,2004-01-18,center back,,,190,left,653889
+1477517,Sherzod Esanov,Uzbekistan,8700,2003-02-01,midfielder,102158,Buxoro,190,right,142187
+1898281,Bekhruz Karimov,Uzbekistan,8700,2007-08-07,right wing-back,0,PFC Surkhon Termez,172,right,
+251915,Igor Sergeev,Uzbekistan,8700,1993-04-30,forward,101610,Persepolis,185,left,663116
+431169,Jamshid Iskandarov,Uzbekistan,8700,1993-10-16,midfielder,102145,Neftchi Fargona,168,left,511633
+589585,Farrukh Sayfiev,Uzbekistan,8700,1991-01-17,right wing-back,102155,Navbahor Namangan,180,both,56997
+619508,Dostonbek Khamdamov,Uzbekistan,8700,1996-07-24,midfielder,102141,Pakhtakor Tashkent,178,both,214689
+619513,Eldor Shomurodov,Uzbekistan,8700,1995-06-29,attacking midfielder,1933,Başakşehir,190,right,4787843
+619697,Odiljon Khamrobekov,Uzbekistan,8700,1996-02-13,central midfielder,176352,Tractor,180,right,616468
+619700,Utkir Yusupov,Uzbekistan,8700,1991-01-04,keeper,139914,Foolad Khuzestan,185,right,100971
+624405,Otabek Shukurov,Uzbekistan,8700,1996-06-22,defensive midfielder,182933,Baniyas,183,right,851980
+629823,Aziz G'aniev,Uzbekistan,8700,1998-02-22,central midfielder,1112866,Al Bataeh,180,right,1258725
+643624,Rustam Ashurmatov,Uzbekistan,8700,1996-07-07,center back,101614,Esteghlal,186,right,360296
+643639,Botirali Ergashev,Uzbekistan,8700,1995-06-23,keeper,115128,AGMK,189,right,232824
+922298,Umar Eshmuradov,Uzbekistan,8700,1992-11-30,center back,102153,Nasaf Qarshi,185,right,71636
+929168,Akmal Mozgovoy,Uzbekistan,8700,1999-04-02,attacking midfielder,102141,Pakhtakor Tashkent,180,right,745541
+933051,Azizbek Amonov,Uzbekistan,8700,1997-10-30,forward,102149,Dinamo Samarkand,183,left,110967
+940778,Khoziakbar Alidzhanov,Uzbekistan,8700,1997-04-19,right wing-back,102141,Pakhtakor Tashkent,180,right,
